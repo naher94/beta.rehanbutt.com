@@ -40,6 +40,25 @@ a:hover {
 .content {
 	background-color: #aaaaaa;
 	height: 100%;
-	width: 100%;
-} 
+}
+
+#tile-2{
+	background-image: url("../img/nyc.png");
+}
+
+#tile-2:hover{
+	background-image: url("../img/nyc2.png");
+}
+
+#tile-2:hover ~ #tile-1 {
+	background-image: url("../img/nyc1.png");
+}
+
+#tile-2:hover ~ #tile-3 {
+	background-image: url("../img/nyc3.png");
+}
+
+#tile-2:hover ~ #tile-4 {
+}
+
 
