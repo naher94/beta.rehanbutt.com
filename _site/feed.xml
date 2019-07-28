@@ -1,0 +1,2266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rehan Butt</title>
+    <description>A collection of projects showing many of my visual based skills: UI/UX, branding, web development, illustrations, photography and fashion design.
+</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 07 Jul 2019 10:56:09 -0400</pubDate>
+    <lastBuildDate>Sun, 07 Jul 2019 10:56:09 -0400</lastBuildDate>
+    <generator>Jekyll v3.5.2</generator>
+    
+      <item>
+        <title>Fountains</title>
+<!--        <description>&lt;iframe name=&quot;target&quot; src=&quot;img/fountainsGallery/index.html&quot; width=&quot;100%&quot; height=&quot;800&quot; frameborder=&quot;0&quot; scrolling=&quot;auto&quot;&gt;&lt;/iframe&gt;
+</description>-->
+        <pubDate>Sun, 01 May 2011 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/fountains</link>
+        <guid isPermaLink="true">http://localhost:4000/fountains</guid>
+        
+        <category>fabrication</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Projection Mapping</title>
+<!--        <description>&lt;iframe width=&quot;100%&quot; src=&quot;http://www.youtube.com/embed/7t88hFd7VqY?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Using a set of boxes and Processing (Processing.org), I created a projection mapped choreography to a snippet of GreyHound.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/projectionMappingLayout.png&quot; alt=&quot;Shape Layout&quot; /&gt;&lt;/div&gt;
+</description>-->
+        <pubDate>Thu, 01 Nov 2012 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/projectionmapping</link>
+        <guid isPermaLink="true">http://localhost:4000/projectionmapping</guid>
+        
+        <category>programming</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Wood Working</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/woodWorking/woodWorkingPortal.png&quot; alt=&quot;Portal View 1&quot; style=&quot;width:100%&quot; /&gt;
+&lt;img src=&quot;../img/woodWorking/woodWorkingPortal2.png&quot; alt=&quot;Portal View 2&quot; style=&quot;width:100%&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Portal finished piece&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/woodWorking/woodWorkingStone.png&quot; alt=&quot;Wood and Stone View 1&quot; style=&quot;width:100%&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/woodWorking/woodWorkingStoneDetails.png&quot; alt=&quot;Wood and Stone Details&quot; style=&quot;width:100%&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Wood and Stone finished piece with detail shots&lt;/p&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/woodWorking/woodWorkingPortalSketches.png&quot; alt=&quot;Portal Sketches&quot; style=&quot;width:100%&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Process sketches of the portal wood working piece.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/woodWorking/woodWorkingStoneSketches.png&quot; alt=&quot;Portal Sketches&quot; style=&quot;width:100%&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Process sketches of the wood and stone sculpture piece.&lt;/p&gt;
+</description>-->
+        <pubDate>Sat, 01 Dec 2012 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/woodworking</link>
+        <guid isPermaLink="true">http://localhost:4000/woodworking</guid>
+        
+        <category>fabrication</category>
+        
+        <category>wood</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Row House</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/rowHouse/rowHouseFrontElevation.png&quot; alt=&quot;Front Elevation&quot; /&gt;
+&lt;img src=&quot;../img/rowHouse/rowHouseLongSection.png&quot; alt=&quot;Long Section&quot; /&gt;
+&lt;img src=&quot;../img/rowHouse/rowHousePlans.png&quot; alt=&quot;Plans&quot; /&gt;
+&lt;img src=&quot;../img/rowHouse/rowHouseGrid.png&quot; alt=&quot;Hexagon Grid&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;As part of this project we were asked to create a hexagon tile and incorporate it into the house design.  I used it as a starting place, creating a grid based on it. Giving me the opportunity to create 4 basic shapes.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/rowHouse/rowHouseTileIteration.png&quot; alt=&quot;Tile Iteration&quot; /&gt;
+&lt;img src=&quot;../img/rowHouse/rowHouseTile.png&quot; alt=&quot;Tile&quot; /&gt;
+&lt;img src=&quot;../img/rowHouse/rowHouseTile3d.png&quot; alt=&quot;Tile 3D Printed&quot; style=&quot;width:100%&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;I wanted to incorporate a time-based aspect into the house, so I decided to use the tile in order to create a waterfall wall. The tiles are made out of copper allowing them to rust, changing color and texture, giving a new aspect to your house over the years.&lt;/p&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/rowHouse/rowHouseProcessSketches.png&quot; alt=&quot;Process Sketches&quot; /&gt;
+&lt;img src=&quot;../img/rowHouse/rowHouseProcessMoments.png&quot; alt=&quot;Process Sketches&quot; /&gt;&lt;/div&gt;
+</description>-->
+        <pubDate>Sat, 15 Dec 2012 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/rowhouse</link>
+        <guid isPermaLink="true">http://localhost:4000/rowhouse</guid>
+        
+        <category>architecture</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Watch</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/watch/watchRender.png&quot; alt=&quot;Watch Render&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/watch/clockSketches.png&quot; alt=&quot;Clock Sketches&quot; class=&quot;image-center&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/watch/clockSketches2.png&quot; alt=&quot;Clock Sketches&quot; class=&quot;image-center&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/watch/inspiration.png&quot; alt=&quot;Inspiration Images&quot; class=&quot;image-center&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/watch/iterations.png&quot; alt=&quot;Digtial Models&quot; class=&quot;image-center&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/watch/prototypes.png&quot; alt=&quot;Physical Prototypes&quot; class=&quot;image-center&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/watch/lightPrototype.gif&quot; alt=&quot;Light Prototype&quot; class=&quot;image-center&quot; style=&quot;width:50%&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;In order to get to the small form factor of a watch I started with developing a clock in order to work on the interactions and the lighting effects rather than efficiency. This was one of my first prototypes using a NeoPixel LED array, and Ardunio and a 3D printed shell, using the Form 1 printers.&lt;/p&gt;
+</description>-->
+        <pubDate>Fri, 01 Mar 2013 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/watch</link>
+        <guid isPermaLink="true">http://localhost:4000/watch</guid>
+        
+        <category>product</category>
+        
+        <category>watch</category>
+        
+        <category>industrial</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Scarf Design</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/scarf/scarfFinal.png&quot; alt=&quot;Scarf Design&quot; /&gt;
+&lt;img src=&quot;../img/scarf/scarfDetail2.png&quot; alt=&quot;Scarf Design Detail&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/scarf/scarfOriginalPhoto.png&quot; alt=&quot;Scarf Original Photo&quot; class=&quot;image-center&quot; style=&quot;width:50%&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;This project originated from one of my friends losing her favorite scarf, so I wanted to recreate it for her. At the time I was not an Illustrator user and wanted to add this tool to my knowledge base. This project stemmed from this idea, but in no way ended there. I took it further to enhance my knowledge of other tools and bring the design to fruition, from a concept to a final product that I could present to my friend. With such a graphic oriented project I wanted to break it down into smaller elements. Smaller elements help to create a language that was consistent through out the design, but one that was clear that the elements in the pattern had their own place within the background, middle ground and foreground elements. Breaking the project down helped to keep it on task and refined through all the iterations, starting from low-fidelity and eventually getting mockups and a final product.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/scarf/scarfShapeIteration.png&quot; alt=&quot;Scarf Pattern Shape Iteration&quot; /&gt;
+&lt;img src=&quot;../img/scarf/scarfOriginalPatternColor.png&quot; alt=&quot;Scarf Pattern Color Selection&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Choosing the right colors&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/scarf/scarfOriginalPatternFinal.png&quot; alt=&quot;Scarf Original Pattern Final&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;I decided to use the original reproduction as the starting point and part of the background elements of the final design.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/scarf/scarfSketches.png&quot; alt=&quot;Scarf Sketches&quot; style=&quot;width:100%&quot; /&gt;
+&lt;img src=&quot;../img/scarf/scarfPatternVariation.png&quot; alt=&quot;Scarf Pattern Variation&quot; style=&quot;width:100%&quot; /&gt;
+&lt;img src=&quot;../img/scarf/scarfDiagrams.png&quot; alt=&quot;Scarf Pattern Diagrams&quot; style=&quot;width:100%&quot; /&gt;
+&lt;img src=&quot;../img/scarf/scarfColorSwatches.png&quot; alt=&quot;Scarf Color Swatches&quot; /&gt;
+&lt;img src=&quot;../img/scarf/scarfBackgroundIteration.png&quot; alt=&quot;Scarf Background Iterations&quot; /&gt;&lt;/div&gt;
+</description>-->
+        <pubDate>Mon, 01 Jul 2013 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/scarf</link>
+        <guid isPermaLink="true">http://localhost:4000/scarf</guid>
+        
+        <category>textile</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Slotted Furniture</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/slottedFurniture/slottedFurnitureAxo.png&quot; alt=&quot;Axonometic Drawing&quot; class=&quot;image-center&quot; style=&quot;width:50%&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/slottedFurniture/slottedFurnitureCutSheet.png&quot; alt=&quot;Cut Sheet&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/slottedFurniture/slottedFurnitureProcess.png&quot; alt=&quot;Process Sketches&quot; style=&quot;width:100%&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/slottedFurniture/slottedFurnitureCNC.png&quot; alt=&quot;CNC Router&quot; style=&quot;width:100%&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/slottedFurniture/slottedFurnitureFinal.png&quot; alt=&quot;Final Furniture&quot; style=&quot;width:100%&quot; /&gt;&lt;/div&gt;
+</description>-->
+        <pubDate>Fri, 01 Nov 2013 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/slottedfurniture</link>
+        <guid isPermaLink="true">http://localhost:4000/slottedfurniture</guid>
+        
+        <category>Fabrication</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>gitApp</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/gitApp/gitAppIcon.png&quot; alt=&quot;Icon&quot; class=&quot;image-center&quot; style=&quot;width:50%&quot; /&gt;
+&lt;img src=&quot;../img/gitApp/gitAppInterfaces.png&quot; alt=&quot;Interfaces&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;My main incentive for this project was to bring GitHub mobile. Reason being in order to let people check on their repositories when on the go. This is especially useful for organization repos. Say one of your team members has submitted a pull request, you would have a simple and easy way to view the changes, made comments or merge it back.&lt;/p&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/gitApp/gitAppSketches.png&quot; alt=&quot;Sketches&quot; class=&quot;image-center&quot; style=&quot;width:50%&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/gitApp/gitAppOrigami.png&quot; alt=&quot;Origami&quot; /&gt;&lt;/div&gt;
+
+&lt;iframe class=&quot;image-center&quot; width=&quot;80%&quot; src=&quot;https://www.youtube.com/embed/9pox7w3nB_s?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>-->
+        <pubDate>Thu, 30 Jan 2014 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/gitapp</link>
+        <guid isPermaLink="true">http://localhost:4000/gitapp</guid>
+        
+        <category>iOS</category>
+        
+        <category>App</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Technical Drawings</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/technicalDrawings/technicalDrawingsA1P1.png&quot; alt=&quot;Wall Section&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/technicalDrawings/technicalDrawingsA2P1.png&quot; alt=&quot;Egress First Floor Plan&quot; style=&quot;width:49.5%&quot; /&gt;
+&lt;img src=&quot;../img/technicalDrawings/technicalDrawingsA2P2.png&quot; alt=&quot;Egress Second Floor Plan&quot; style=&quot;width:49.5%&quot; /&gt;
+&lt;img src=&quot;../img/technicalDrawings/technicalDrawingsA2P3.png&quot; alt=&quot;Egress Third Floor Plan&quot; style=&quot;width:49.5%&quot; /&gt;
+&lt;img src=&quot;../img/technicalDrawings/technicalDrawingsA2P4.png&quot; alt=&quot;Egress Section&quot; style=&quot;width:49.5%&quot; /&gt;
+&lt;img src=&quot;../img/technicalDrawings/technicalDrawingsA2P5.png&quot; alt=&quot;Egress Elevations&quot; style=&quot;width:49.5%&quot; /&gt;
+&lt;img src=&quot;../img/technicalDrawings/technicalDrawingsA2P6.png&quot; alt=&quot;Egress Elevations&quot; style=&quot;width:49.5%&quot; /&gt;
+&lt;img src=&quot;../img/technicalDrawings/technicalDrawingsA2P7.png&quot; alt=&quot;Egress Renders&quot; style=&quot;width:49.5%&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/technicalDrawings/technicalDrawingsA3P1.png&quot; alt=&quot;Framing Plans&quot; style=&quot;width:49.5%&quot; /&gt;
+&lt;img src=&quot;../img/technicalDrawings/technicalDrawingsA3P2.png&quot; alt=&quot;Framing Axonometric&quot; style=&quot;width:49.5%&quot; /&gt;
+&lt;img src=&quot;../img/technicalDrawings/technicalDrawingsA3P3.png&quot; alt=&quot;Framing Corner Details&quot; style=&quot;width:49.5%&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/technicalDrawings/technicalDrawingsA4P1.png&quot; alt=&quot;Brick Patterning part 1&quot; style=&quot;width:49.5%&quot; /&gt;
+&lt;img src=&quot;../img/technicalDrawings/technicalDrawingsA4P2.png&quot; alt=&quot;Brick Patterning part 2&quot; style=&quot;width:49.5%&quot; /&gt;
+&lt;img src=&quot;../img/technicalDrawings/technicalDrawingsA4P3.png&quot; alt=&quot;Brick Patterning part 3&quot; style=&quot;width:49.5%&quot; /&gt;&lt;/div&gt;
+</description>-->
+        <pubDate>Sat, 01 Mar 2014 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/technicaldrawings</link>
+        <guid isPermaLink="true">http://localhost:4000/technicaldrawings</guid>
+        
+        <category>CAD</category>
+        
+        <category>drawings</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Photography</title>
+<!--        <description>&lt;iframe name=&quot;target&quot; src=&quot;img/photographyGallery/index.html&quot; width=&quot;100%&quot; height=&quot;800&quot; frameborder=&quot;0&quot; scrolling=&quot;auto&quot;&gt;&lt;/iframe&gt;
+</description>-->
+        <pubDate>Fri, 01 Aug 2014 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/photography</link>
+        <guid isPermaLink="true">http://localhost:4000/photography</guid>
+        
+        <category>photo</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>LogoMarks</title>
+<!--        <description>&lt;p&gt;I created a set of LogoMarks using information about the people the LogoMarks are for, mostly their personality and some input like favorite color. Their personality helped influenced my decision on shape, color, style and the overall feel of the mark.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/logoMark/logoMarkYa.svg&quot; alt=&quot;Yasmeen Almuhanna LogoMark&quot; class=&quot;image-center&quot; style=&quot;width:50%&quot; /&gt;
+&lt;img src=&quot;../img/logoMark/logoMarkAg.svg&quot; alt=&quot;Aileena Gray LogoMark&quot; class=&quot;image-center&quot; style=&quot;width:60%&quot; /&gt;
+&lt;img src=&quot;../img/logoMark/logoMarkDl.svg&quot; alt=&quot;Danielle Lehmann LogoMark&quot; class=&quot;image-center&quot; style=&quot;width:40%; margin-top:30px&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/logoMark/logoMarkJtm.svg&quot; alt=&quot;Danielle Lehmann LogoMark&quot; class=&quot;image-center&quot; style=&quot;width:70%; margin-top:40px&quot; /&gt;
+&lt;img src=&quot;../img/logoMark/logoMarkEd.svg&quot; alt=&quot;Elizabeth Dolinar LogoMark&quot; class=&quot;image-center&quot; style=&quot;width:40%; margin-top:40px&quot; /&gt;
+&lt;img src=&quot;../img/logoMark/logoMarkDc.svg&quot; alt=&quot;Diana Connolly LogoMark&quot; class=&quot;image-center&quot; style=&quot;width:40%; margin-top:50px&quot; /&gt;
+&lt;img src=&quot;../img/logoMark/logoMarkOb.svg&quot; alt=&quot;Oscar Bezi LogoMark&quot; class=&quot;image-center&quot; style=&quot;width:50%; margin-top:50px&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;p&gt;Looking at the first logoMark, Yasmeen’s, I starting on my computer within my vector program, Rhinoceros, I started with her initials “YA” looking at the outcome from current fonts and some interesting spaces and relations that could come of it. This was 1 of the 2 approaches I took. The second started from a stamp marking she already used to sign with, which is the marking below. First I vectorized it and then tried to overlay a geometry, which did not work out so well. So I decided to ditch the geometry and if I was going to use the stamp I was going to use it in the original vectorized form.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/logoMark/logoMarkYaProcessStamp.png&quot; alt=&quot;Yasmeen Almuhanna Stamp Mark&quot; class=&quot;image-center&quot; style=&quot;width:70%&quot; /&gt;
+&lt;img src=&quot;../img/logoMark/logoMarkYaProcess1.png&quot; alt=&quot;Yasmeen Almuhanna Process Designs&quot; /&gt;
+&lt;img src=&quot;../img/logoMark/logoMarkYaProcess2.png&quot; alt=&quot;Yasmeen Almuhanna Process Designs&quot; /&gt;
+&lt;img src=&quot;../img/logoMark/logoMarkYaProcess3.png&quot; alt=&quot;Yasmeen Almuhanna Process Designs&quot; /&gt;
+&lt;img src=&quot;../img/logoMark/logoMarkYaProcess4.png&quot; alt=&quot;Yasmeen Almuhanna Process Designs&quot; /&gt;
+&lt;img src=&quot;../img/logoMark/logoMarkYaProcess5.png&quot; alt=&quot;Yasmeen Almuhanna Process Designs&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Once I had finished the design, the steps that followed were which color to use, font to use for her name and whether or not to still incorporate the stamp.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/logoMark/logoMarkYaProcessDesign.svg&quot; alt=&quot;Yasmeen Almuhanna Final Design&quot; class=&quot;image-center&quot; style=&quot;width:20%&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;I knew the color was going to be a shade of pink, but the next step was deciding what shade. I wanted to go with a softer shade, something easy on the eyes but still clearly pink. Finally I choose the shade on the left. Soft, pink, not so in your face, and not so red either.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/logoMark/logoMarkYaProcessColor.png&quot; alt=&quot;Yasmeen Almuhanna Color&quot; class=&quot;image-center&quot; style=&quot;width:60%&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;I played around with the stamp and the final iteration logo to see what could come of it and if it made sense to bring them together as the stamp was already part of her “branding”. As the stamp was more free-flow and natural in character I wanted to use a circle, a less harsh shape and I also tried using triangles to match the logoMark. It did not seem to work for me to combine the 2 into 1 identity, but out of all of them I enjoy the bottom one the most. I like to call it the Starbucks variation.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/logoMark/logoMarkYaProcess6.png&quot; alt=&quot;Yasmeen Almuhanna Stamp + LogoMark&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Choosing a font was the next step. I wanted to use a sans serif font as the logo also gave a sans serif vibe. The logo had this certain weight to it and I wanted to complement it with the weight of the font.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/logoMark/logoMarkYaProcessFont.png&quot; alt=&quot;Yasmeen Almuhanna Font&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;This gave me the final logoMark. I took it 1 step further and created a website to be used as a portfolio. Using the same spirit from the logoMark and extending it to the web.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/logoMark/logoMarkYaProcessWeb.png&quot; alt=&quot;Yasmeen Almuhanna Website&quot; class=&quot;image-center&quot; style=&quot;width:70%&quot; /&gt;
+&lt;img src=&quot;../img/logoMark/logoMarkAg.svg&quot; alt=&quot;Aileena Gray LogoMark&quot; class=&quot;image-center&quot; style=&quot;width:60%; margin-top:50px;&quot; /&gt;
+&lt;img src=&quot;../img/logoMark/logoMarkAgSketches.png&quot; alt=&quot;Aileena Gray Sketches&quot; class=&quot;image-center&quot; style=&quot;width:80%; margin-top:50px;&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/logoMark/logoMarkAgConstruction.png&quot; alt=&quot;Aileena Gray Sketches&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/logoMark/logoMarkAgShapes.png&quot; alt=&quot;Aileena Gray Shapes&quot; /&gt;
+&lt;img src=&quot;../img/logoMark/logoMarkAgDetail.png&quot; alt=&quot;Aileena Gray Detail&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Here I was playing with the corner details deciding whether the corners should be sharp or rounded. I decided especially since I was using a circle as the bounding shape that rounding the corners would fit the esthetic more, Leaving the corners sharp also left tension between the mark and the bounding circle. Seaming like the circle was going to pop from the sharp corners of the mark.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/logoMark/logoMarkDl.svg&quot; alt=&quot;Danielle Lehmann LogoMark&quot; class=&quot;image-center&quot; style=&quot;width:60%&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/logoMark/logoMarkDlSketches.png&quot; alt=&quot;Danielle Lehmann Sketches&quot; /&gt;
+&lt;img src=&quot;../img/logoMark/logoMarkDlProcess.png&quot; alt=&quot;Danielle Lehmann Process&quot; /&gt;
+&lt;img src=&quot;../img/logoMark/logoMarkDlColor.png&quot; alt=&quot;Danielle Lehmann Color&quot; /&gt;&lt;/div&gt;
+</description>-->
+        <pubDate>Thu, 25 Sep 2014 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/logomarks</link>
+        <guid isPermaLink="true">http://localhost:4000/logomarks</guid>
+        
+        <category>logos</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>CommandBar (Photoshop Extension)</title>
+<!--        <description>&lt;p&gt;As an Adobe creative suites, AutoDesk and Rhinoceros 3D user, I realized there are a couple very intuitive feature missing in the creative suite. One of the best and simplest features in AutoCAD and Rhino is the universal search or command bar. It helps pull up the tool you need without having to remember the short cut or the icon associated with it. The command bar also exists in these more technical applications because there are many tools that one could use. If short cuts were implemented for all of these tools, they would require several keys each and would create a tool bar that was the entire interface. Another thing I noticed was for the Windows user there was no built-in way to search for an action in the drop down menus as you can on a Mac within the “Help” menu.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/commandBar/commandBarMacSearch.png&quot; alt=&quot;Mac Search&quot; style=&quot;width:100%&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;The “Help” menu search feature is a tool I use often, especially when I can’t remember where a tool is located. To help out my Windows friends, I decided to write a Photoshop extension, called CommandBar, which functions like the universal search in Rhino. Another reason this is really useful is a result of the workflow we have in the Carnegie Mellon architecture program. In our workflow we move constantly between Rhino and Photoshop to create and touch up renders. Once we get used to the search in Rhino, not having one in Photoshop is a nuisance and slows down the production process. However, this program can be used more generally for architecture students and even help Mac users use Photoshop on a Windows machine. As such I have created a download link at the bottom of this project.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/commandBar/commandBarScreenShot.png&quot; alt=&quot;Screen Shot&quot; style=&quot;width:100%&quot; /&gt;&lt;/div&gt;
+
+&lt;div&gt;
+&lt;a href=&quot;../img/commandBar/commandBar.zip&quot;&gt;
+    &lt;div class=&quot;commandBarButton contentButton&quot;&gt; Download
+    &lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+</description>-->
+        <pubDate>Fri, 26 Sep 2014 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/commandbar</link>
+        <guid isPermaLink="true">http://localhost:4000/commandbar</guid>
+        
+        <category>photoshop</category>
+        
+        <category>plugin</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Swfty Mobile Application</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/swfty/landingPage.jpg&quot; alt=&quot;Landing Page&quot; class=&quot;image-center&quot; style=&quot;width:80%&quot; /&gt;
+&lt;img src=&quot;../img/swfty/appIcon.png&quot; alt=&quot;App Icon&quot; /&gt;
+&lt;img src=&quot;../img/swfty/xCode.png&quot; alt=&quot;xCode&quot; /&gt;&lt;/div&gt;
+</description>-->
+        <pubDate>Mon, 13 Oct 2014 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/swfty</link>
+        <guid isPermaLink="true">http://localhost:4000/swfty</guid>
+        
+        <category>iOS</category>
+        
+        <category>mobile</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>My Site</title>
+<!--        <description>&lt;p&gt;My goal with this new site was to make sure it was fully responsive and make sure it was clean in both design and development, as my site was when I originally published it with only 2 sections (portfolio and about). I used Jekyll and the Foundation CSS framework to develop this site. Jekyll helped to compartmentalize and template pages and the Foundation framework helped to create the responsiveness for all devices. From a development stand point I also decided to remove the javascript from my site in case it is being blocked by the user and to speed up the load time. With the refreshed site I also wanted to streamline my brand, specifically reduce the complexity of the graphic while keeping the reference of the logo to my name. One of the first elements I looked into was reducing the number or horizontal lines in the logo, then crisping up the corners by removing the chamfer.&lt;/p&gt;
+&lt;div class=&quot;image-container&quot;&gt;
+    &lt;img src=&quot;../img/mySite/newSite.png&quot; alt=&quot;Site Design&quot; /&gt;
+    &lt;img src=&quot;../img/mySite/currentOldSite.png&quot; alt=&quot;Current Old Site Design&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;What it looked like before the refresh.&lt;/p&gt;
+&lt;div class=&quot;image-container&quot;&gt;
+    &lt;img src=&quot;../img/mySite/originalOldSite.png&quot; alt=&quot;Original Old Site Design&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;My site when I first deployed it.&lt;/p&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+    &lt;img src=&quot;../img/mySite/siteLogo.svg&quot; alt=&quot;Rehan Logo&quot; class=&quot;image-center&quot; style=&quot;width:40%; margin-bottom:50px;&quot; /&gt;
+    &lt;img src=&quot;../img/mySite/siteColor.png&quot; alt=&quot;Color Scheme&quot; /&gt;
+    
+    &lt;img src=&quot;../img/mySite/sketches.png&quot; alt=&quot;Sketches&quot; style=&quot;margin-top:50px;&quot; /&gt;
+    &lt;img src=&quot;../img/mySite/iterations.svg&quot; alt=&quot;Logo Iterations&quot; style=&quot;margin-top:30px;&quot; /&gt;
+    &lt;img src=&quot;../img/mySite/logoHorizontal.svg&quot; alt=&quot;Logo Iteration&quot; /&gt;
+    &lt;img src=&quot;../img/mySite/iterationDetails.svg&quot; alt=&quot;Iteration Detailing&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;In order to reduce the number of horizontal lines I had to either slide the middle segment of the “E” down or move the “R” horizontal up. I decided to slide the “E” segment down so that I did not mess with the curvature of the “R”.&lt;/p&gt;
+&lt;div class=&quot;image-container&quot;&gt;
+    &lt;img src=&quot;../img/mySite/newThumbnails.png&quot; alt=&quot;Development&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;During the development process I needed to recreate many of the assets including the thumbnails to match the new specifications and to match the column width on all screen sizes.&lt;/p&gt;
+&lt;div class=&quot;image-container&quot;&gt;
+    &lt;img src=&quot;../img/mySite/mobile.png&quot; alt=&quot;Mobile Site&quot; style=&quot;width:60%;&quot; class=&quot;image-center&quot; /&gt;
+&lt;/div&gt;
+</description>-->
+        <pubDate>Wed, 10 Dec 2014 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/mysite</link>
+        <guid isPermaLink="true">http://localhost:4000/mysite</guid>
+        
+        <category>web</category>
+        
+        <category>branding</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Branding Package</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/ISU/ISUlogo.svg&quot; alt=&quot;ISU Logo&quot; class=&quot;image-center&quot; style=&quot;width:60%&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/ISU/ISUwebsite.png&quot; alt=&quot;ISU Website&quot; /&gt;&lt;/div&gt;
+
+&lt;div data-configid=&quot;15751362/51271555&quot; style=&quot;width:100%; height:700px;&quot; class=&quot;issuuembed&quot;&gt;&lt;/div&gt;
+&lt;script type=&quot;text/javascript&quot; src=&quot;//e.issuu.com/embed.js&quot; async=&quot;true&quot;&gt;&lt;/script&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;p&gt;When starting this project I looked at what words described the International Student Union and what we do as an organization. I came up with the following: diverse, connected, global, community, social and fun.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/ISU/ISUinspiration.png&quot; alt=&quot;Inspiration / Research&quot; /&gt;
+&lt;img src=&quot;../img/ISU/ISUiteration1.png&quot; alt=&quot;Iteration 1&quot; /&gt;
+&lt;img src=&quot;../img/ISU/ISUiteration2.png&quot; alt=&quot;Iteration 2&quot; /&gt;
+&lt;img src=&quot;../img/ISU/ISUiteration3.png&quot; alt=&quot;Iteration 3&quot; /&gt;
+&lt;img src=&quot;../img/ISU/ISUiteration4.png&quot; alt=&quot;Iteration 4&quot; /&gt;
+&lt;img src=&quot;../img/ISU/ISUiteration5.png&quot; alt=&quot;Iteration 5&quot; /&gt;
+&lt;img src=&quot;../img/ISU/ISUiteration5.png&quot; alt=&quot;Iteration 6&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;These are the iterations I created for the brand image. Using different shapes and segments using five components as a symbol for the five inhabited continents. Looking at flag patterns and golden rectangles as one structure generating the logo.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/ISU/ISUcolorText1.png&quot; alt=&quot;Text Iteration&quot; /&gt;
+&lt;img src=&quot;../img/ISU/ISUcolorText2.png&quot; alt=&quot;Color Iteration&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;This was the first high fidelity logo I came up with. Looking at text positioning relative to the logo and color as the next step in the process.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/ISU/ISUlogoV1.png&quot; alt=&quot;Logo V1&quot; class=&quot;image-center&quot; style=&quot;width:60%&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;After this logo I realized that the color worked as it was bright and as orange is a secondary color it incorporated several components, while the logo itself had no relation to any of the terms I had compiled, diverse, connected, global, community, social and fun.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/ISU/ISUiteration7.png&quot; alt=&quot;Iteration 7&quot; /&gt;
+&lt;img src=&quot;../img/ISU/ISUiteration8.png&quot; alt=&quot;Iteration 8&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;I used the idea of interlocked circles similar to that of the olympic rings as a new direction or pattern for a more conceptually centered logo.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/ISU/ISUweaveColor.png&quot; alt=&quot;Color Iteration&quot; /&gt;
+&lt;img src=&quot;../img/ISU/ISUweavePattern.png&quot; alt=&quot;Overlay Iteration&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;This led me to the final logo. Where I then looked into a color palette for each of the four segments. After I decided on the colors I looked into how the segments would tie in to one another. At the end I went with this color pattern and the half overlapped segments.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/ISU/ISUposter.png&quot; alt=&quot;Poster Design&quot; class=&quot;image-center&quot; style=&quot;width:40%&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Using this new brand image I created a poster for one of our events.&lt;/p&gt;
+</description>-->
+        <pubDate>Tue, 10 Feb 2015 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/isubranding</link>
+        <guid isPermaLink="true">http://localhost:4000/isubranding</guid>
+        
+        <category>branding</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Lustre (Fashion Line)</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/fashion/fashionModelAndMe.png&quot; alt=&quot;Us with the Models&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Lustre - the way light interacts with the surface of a crystal, rock, or mineral.&lt;/p&gt;
+
+&lt;p&gt;Our collection, Lustre, is inspired by geological formations. The line is inspired by the singular moment when a geode is split open, revealing colorful crystals within. With this in mind, the line showcases a natural progression of breaking down, perforating and shattering the rigid, rock-like structure of tessellated Yupo Paper, to reveal from underneath the free flowing fabrics of iridescent silk.&lt;/p&gt;
+
+&lt;p&gt;This concept is directly linked to the idea of clothing being a shell of the human form that socially delineates cultures and that only by breaking open this shell, and the prejudicial implications that go with it, can we reveal the true being within.&lt;/p&gt;
+
+&lt;p&gt;I worked on this line with two of my friends and colleagues, &lt;a target=&quot;_blank&quot; href=&quot;http://www.citamayo.com&quot;&gt;Carolina Tamayo&lt;/a&gt; and &lt;a target=&quot;_blank&quot; href=&quot;https://ajhamilton.squarespace.com/&quot;&gt;Alyssa Hamilton&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/fashion/fashionStageJL.png&quot; alt=&quot;Stage; Photo Credit: Jonathan Leung&quot; style=&quot;width:100%&quot; /&gt;&lt;/div&gt;
+
+&lt;iframe name=&quot;target&quot; src=&quot;img/fashionGallery/index.html&quot; width=&quot;100%&quot; height=&quot;800&quot; frameborder=&quot;0&quot; scrolling=&quot;auto&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;100%&quot; src=&quot;https://www.youtube.com/embed/SeDGiYwXBiM&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;I also want to say thank to &lt;a target=&quot;_blank&quot; href=&quot;http://yupousa.com&quot;&gt;Yupo&lt;/a&gt; for being our sponsor for this line. Photo Credit: Jonathan Leung, Yutong Chen, Victor Song&lt;/p&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/fashion/fashionConceptInspiration.png&quot; alt=&quot;Concept Inspiration&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;These images represent the concept we were trying to convey through our line.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/fashion/fashionClothingInspiration.png&quot; alt=&quot;Clothing Inspiration&quot; style=&quot;width:100%&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;These were several of the images we found that we though we could incorporate into our designs.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/fashion/fashionSketchesv1.png&quot; alt=&quot;Sketches V1&quot; /&gt;
+&lt;img src=&quot;../img/fashion/fashionSketchesv2.png&quot; alt=&quot;Sketches V2&quot; /&gt;
+&lt;img src=&quot;../img/fashion/fashionInitalSketches.png&quot; alt=&quot;Inital Sketches&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;These sketches were the initial sketches we submitted in order to be a part of the Lunar Gala fashion show.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/fashion/fashionScanningDiagram.png&quot; alt=&quot;Scanning Diagram&quot; /&gt;
+&lt;img src=&quot;../img/fashion/fashionScanning.png&quot; alt=&quot;Model Scanning&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;In order to reduce the number of fitting we had to do with the models and experiment with unconventional ways to create a fashion line we decided to scan the models. Using a ABB robot, which had a camera mounted to it we took several pictures of the models then uploading the images to AutoDesk’s 123D Catch, which converted the images into a 3D mesh model, which we could then fit.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/fashion/fashionFittings.png&quot; alt=&quot;Model Fittings&quot; style=&quot;width:100%&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/fashion/fashionFittingsv2.png&quot; alt=&quot;Clothes Fittings&quot; /&gt;&lt;/div&gt;
+
+&lt;!--REVISED SKETCHES--&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/fashion/fashionRevisedSketches.png&quot; alt=&quot;Sketches V1&quot; class=&quot;image-center&quot; style=&quot;width:90%&quot; /&gt;&lt;/div&gt;
+
+&lt;!--REVISED SKETCHES V2--&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/fashion/fashionFabricSketches.png&quot; alt=&quot;Fabric Sketches&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Sketches of our iridescent fabric pieces.&lt;/p&gt;
+
+&lt;!--3D print images the ball joints and files vs actual prints earring--&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/fashion/fashion3dprints.png&quot; alt=&quot;3D Prints&quot; class=&quot;image-center&quot; style=&quot;width:100%&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/fashion/fashion3dprintsRender.png&quot; alt=&quot;3D Print Renders&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;From our first 3D print we came across many problems that we then decided to use in order to improve all the 3D printed pieces. One problem we came across was how we wanted to connect the 3D printed pieces to one another for those that had large 3D print pieces. The initial design had left a lot of space in between the pieces so we could run fishing line through it, but it created to loose of an effect. On the other hand when connecting our 3D printed pieces to the YUPO paper (the white geometric structures) we had to make sure to leave some slack for the models to walk and move around naturally.&lt;/p&gt;
+
+&lt;!--gifts to models?--&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/fashion/fashion3dPrintSketches.png&quot; alt=&quot;3D Print Sketches&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Some initial sketches we had done for the piece of the outfits that we wanted 3D printed.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/fashion/fashionSketchbook.png&quot; alt=&quot;SketchBook Sketches&quot; class=&quot;image-center&quot; style=&quot;width:70%&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/fashion/fashionInstagram.png&quot; alt=&quot;Wearing Origami - Instagram&quot; class=&quot;image-center&quot; style=&quot;width:30%&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Something fun I came across on social media that one of our models posted :)&lt;/p&gt;
+</description>-->
+        <pubDate>Fri, 20 Feb 2015 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/fashion</link>
+        <guid isPermaLink="true">http://localhost:4000/fashion</guid>
+        
+        <category>fashion</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Puzzle</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/puzzle/image.png&quot; alt=&quot;Puzzle Image&quot; class=&quot;image-center&quot; style=&quot;width:80%&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/puzzle/box.png&quot; alt=&quot;Puzzle Box&quot; class=&quot;image-center&quot; style=&quot;width:80%&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;I created this project for a friend who loves puzzles. As such I wanted to create an original and unique image to be used on the puzzle. I went through several iterations of what I wanted the image to be. The one thing I knew from the very beginning of this project was that it had to have coffee and sushi on it. So how did I come up with this? Well recently I have come across many hero images on the web of desks and wanted to create a custom one with a flat UI feel.&lt;/p&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/puzzle/inspiration.png&quot; alt=&quot;Inspiration&quot; class=&quot;image-center&quot; style=&quot;width:100%&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/puzzle/sketches.png&quot; alt=&quot;Sketches&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/puzzle/rhinoLineWork.png&quot; alt=&quot;Rhino Line Work&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/puzzle/layout.png&quot; alt=&quot;Layout&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/puzzle/colorize1.png&quot; alt=&quot;Colorizing Sushi&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/puzzle/colorize2.png&quot; alt=&quot;Colorizing&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/puzzle/lasercut.png&quot; alt=&quot;Lasercut&quot; class=&quot;image-center&quot; style=&quot;width:100%&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/puzzle/lasercut2.png&quot; alt=&quot;Lasercut 2&quot; class=&quot;image-center&quot; style=&quot;width:100%&quot; /&gt;&lt;/div&gt;
+</description>-->
+        <pubDate>Mon, 16 Mar 2015 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/puzzle</link>
+        <guid isPermaLink="true">http://localhost:4000/puzzle</guid>
+        
+        <category>fabrication</category>
+        
+        <category>illustration</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Weoto (Apple Watch App)</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/smartWatch/appIcon.svg&quot; alt=&quot;Icon&quot; class=&quot;image-center&quot; style=&quot;width:30%&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;This project is based on a prompt about creating a new weather tool for a specific demographic. I decided to work with photographers as my demographic. And decided to design for a smart watch as when shooting you would not be able to easily pull out a tablet or even a phone, but having a watch application that you can glance at would keep your hands “free” for your camera gear.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/smartWatch/screens1.png&quot; alt=&quot;Screens 1-4&quot; /&gt;
+&lt;img src=&quot;../img/smartWatch/screens2.png&quot; alt=&quot;Screens 5-8&quot; /&gt;
+&lt;img src=&quot;../img/smartWatch/screens3.png&quot; alt=&quot;Screens 9-12&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/smartWatch/initialSketches.png&quot; alt=&quot;Initial Sketches&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/smartWatch/sketches.png&quot; alt=&quot;Sketches&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/smartWatch/iconIteration.png&quot; alt=&quot;Icon Iteration&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/smartWatch/grid.png&quot; alt=&quot;Icon Grid&quot; class=&quot;image-center&quot; style=&quot;width:60%&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/smartWatch/processInContext.png&quot; alt=&quot;Within Context&quot; class=&quot;image-center&quot; style=&quot;width:60%&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/smartWatch/dashboardsAnalysis1.png&quot; alt=&quot;DashBoard Analysis&quot; style=&quot;width:49%&quot; /&gt;
+&lt;img src=&quot;../img/smartWatch/dashboardsAnalysis2.png&quot; alt=&quot;DashBoard Analysis&quot; style=&quot;width:49%&quot; /&gt;
+&lt;img src=&quot;../img/smartWatch/dashboardsAnalysis3.png&quot; alt=&quot;DashBoard Analysis&quot; style=&quot;width:49%&quot; /&gt;
+&lt;img src=&quot;../img/smartWatch/dashboardsAnalysis4.png&quot; alt=&quot;DashBoard Analysis&quot; style=&quot;width:49%&quot; /&gt;
+&lt;img src=&quot;../img/smartWatch/dashboardsAnalysis5.png&quot; alt=&quot;DashBoard Analysis&quot; style=&quot;width:49%&quot; /&gt;
+&lt;img src=&quot;../img/smartWatch/dashboardsAnalysis6.png&quot; alt=&quot;DashBoard Analysis&quot; style=&quot;width:49%&quot; /&gt;
+&lt;img src=&quot;../img/smartWatch/dashboardsAnalysis7.png&quot; alt=&quot;DashBoard Analysis&quot; style=&quot;width:49%&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Early on in the process I did an analysis of several different dashboards on several different platforms in order to get an idea of what worked and what did not for their respective platforms. And how I could best accommodate for a watch application in terms screen size and use time.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/smartWatch/research.png&quot; alt=&quot;App Store Research&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;As this project was started before the Apple Watch came out there were not any resources initially of Apple Watch application and more specifically weather apps. Once these applications were released I did some research and analysis of their interfaces. The biggest takeaways from this research was that there are a lot of circles and circular interfaces to condense information. The second thing I took away was that animations are everywhere on the Apple Watch and the last big thing was that margins do not need to be accounted for as the screen is smaller then the device bezel. Making the tense design elements on the edge of the display nonexistent, when in the context of the device.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/smartWatch/prototypesV1.png&quot; alt=&quot;Interface Prototypes&quot; /&gt;
+&lt;img src=&quot;../img/smartWatch/initialScreens.png&quot; alt=&quot;Initial Screens&quot; /&gt;
+&lt;img src=&quot;../img/smartWatch/dashIteration.png&quot; alt=&quot;Dash Iteration&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;This was one of the final interfaces I designed trying out what I had newly learned from the Apple Watch application research. I tried to create a consolidated dashboard using a circular pattern, while still keeping with the existing language I created through the previous interfaces.&lt;/p&gt;
+
+&lt;p&gt;With this project I also decided to explore and learn a new Prototyping tool, &lt;a target=&quot;_blank&quot; href=&quot;http://framerjs.com&quot;&gt;FramerJS&lt;/a&gt;, bringing my coding background into the foreground. In the couple of hours I used the tool I came up with what you see below. The first is an animation demo of what one of the screens would look like and the second is a interactive use of the applications sliding functionality between the different interfaces as well as the launch of the application.&lt;/p&gt;
+
+&lt;iframe src=&quot;http://share.framerjs.com/2yscl0jpkesl/&quot; style=&quot;width:100%; height:700px;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe src=&quot;http://share.framerjs.com/9vjqia996y8k/&quot; style=&quot;width:100%; height:700px;&quot;&gt;&lt;/iframe&gt;
+
+</description>-->
+        <pubDate>Wed, 01 Apr 2015 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/smartwatch</link>
+        <guid isPermaLink="true">http://localhost:4000/smartwatch</guid>
+        
+        <category>UI</category>
+        
+        <category>UX</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Cameleon Web App (Game/Teaching tool)</title>
+<!--        <description>&lt;!--branding process--&gt;
+&lt;!--process not already on splash page--&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/cameleon/logo.svg&quot; alt=&quot;Cameleon Logo&quot; class=&quot;image-center&quot; style=&quot;width:50%&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;div&gt;
+&lt;a target=&quot;_blank&quot; href=&quot;http://naher94.github.io/cameleon&quot;&gt;
+    &lt;div class=&quot;camleonButton contentButton&quot;&gt; Check out the project at the splash page
+    &lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/cameleon/inspiration.png&quot; alt=&quot;Inspiration Images&quot; /&gt;
+&lt;img src=&quot;../img/cameleon/branding.png&quot; alt=&quot;Branding Iterations&quot; /&gt;&lt;/div&gt;
+</description>-->
+        <pubDate>Tue, 05 May 2015 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/cameleon</link>
+        <guid isPermaLink="true">http://localhost:4000/cameleon</guid>
+        
+        <category>web</category>
+        
+        <category>game</category>
+        
+        <category>color</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>My Summer at ConsumerReports</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/cr/CRMexperience1.png&quot; alt=&quot;CR Mobile Experience OnBoarding&quot; /&gt;
+&lt;img src=&quot;../img/cr/CRMexperience2.png&quot; alt=&quot;CR Mobile Experience Home&quot; /&gt;
+&lt;img src=&quot;../img/cr/CRMexperience3.png&quot; alt=&quot;CR Mobile Experience More than an App&quot; /&gt;
+&lt;img src=&quot;../img/cr/CRdataVis.png&quot; alt=&quot;CR Cars Rating Data Vis&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/cr/CRblobs.png&quot; alt=&quot;CR Rating Blobs&quot; /&gt;
+&lt;img src=&quot;../img/cr/CRcolors.png&quot; alt=&quot;CR Colors&quot; /&gt;
+&lt;img src=&quot;../img/cr/CRbrandInspiration.png&quot; alt=&quot;Re-brand Inspiration&quot; /&gt;
+&lt;img src=&quot;../img/cr/CRbrandSketches.png&quot; alt=&quot;Re-brand Sketches&quot; /&gt;
+&lt;img src=&quot;../img/cr/CRmascots.png&quot; alt=&quot;Mascots&quot; /&gt;
+&lt;img src=&quot;../img/cr/CRbrandBubbles-01.png&quot; alt=&quot;Speech Bubbles Iterations&quot; /&gt;
+&lt;img src=&quot;../img/cr/CRbrandBubbles-02.png&quot; alt=&quot;Speech Bubbles Iterations&quot; /&gt;
+&lt;img src=&quot;../img/cr/CRbrandBubbles-03.png&quot; alt=&quot;Speech Bubbles Iterations&quot; /&gt;
+&lt;img src=&quot;../img/cr/CRbrandBubbles-04.png&quot; alt=&quot;Speech Bubbles Iterations&quot; /&gt;
+&lt;img src=&quot;../img/cr/CRbrandBubbles-05.png&quot; alt=&quot;Speech Bubbles Iterations&quot; /&gt;
+&lt;img src=&quot;../img/cr/CRbrandBubbles-06.png&quot; alt=&quot;Speech Bubbles Iterations&quot; /&gt;
+&lt;img src=&quot;../img/cr/CRbrandBubbles-07.png&quot; alt=&quot;Speech Bubbles Iterations&quot; /&gt;
+&lt;img src=&quot;../img/cr/CRbrandBubbles-08.png&quot; alt=&quot;Speech Bubbles Iterations&quot; /&gt;
+&lt;img src=&quot;../img/cr/CRbrandBubbles-09.png&quot; alt=&quot;Speech Bubbles Iterations&quot; /&gt;
+&lt;img src=&quot;../img/cr/CRbrandBubbles-10.png&quot; alt=&quot;Speech Bubbles Iterations&quot; /&gt;
+&lt;img src=&quot;../img/cr/CRbrandBubbles-11.png&quot; alt=&quot;Speech Bubbles Iterations&quot; /&gt;
+&lt;img src=&quot;../img/cr/CRbrandBubbles-12.png&quot; alt=&quot;Speech Bubbles Iterations&quot; /&gt;
+&lt;img src=&quot;../img/cr/CRbrandBubbles-13.png&quot; alt=&quot;Speech Bubbles Iterations&quot; /&gt;
+&lt;img src=&quot;../img/cr/CRbrandBubbles-14.png&quot; alt=&quot;Speech Bubbles Iterations&quot; /&gt;
+&lt;img src=&quot;../img/cr/CRMthoughts.png&quot; alt=&quot;Mobile App Experience Thoughts&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/cr/CRMprocess.png&quot; alt=&quot;Mobile App Experience Process&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/cr/CRcarsWireframes.png&quot; alt=&quot;Cars Wireframes&quot; /&gt;&lt;/div&gt;
+</description>-->
+        <pubDate>Thu, 20 Aug 2015 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/consumerreports</link>
+        <guid isPermaLink="true">http://localhost:4000/consumerreports</guid>
+        
+        <category>UI</category>
+        
+        <category>UX</category>
+        
+        <category>branding</category>
+        
+        <category>mobile</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>CarnegieHere (iOS App)</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/carnegieHere/screens1.png&quot; alt=&quot;Screens 1&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/carnegieHere/screens2.png&quot; alt=&quot;Screens 2&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Our project was to learn the full product cycle of designing and developing an mobile app for use on and around campus, while using iBeacon technology and VR (virtual reality) in a new and innovative way helping to give proof of concepts of these technologies for growth in local industries.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img style=&quot;width:100%;&quot; src=&quot;../img/carnegieHere/theTeam.png&quot; alt=&quot;The Team&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;The team at our all day hack-a-thon pushing through the rest of development.&lt;/p&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/carnegieHere/interactionMap.svg&quot; alt=&quot;Interaction Map&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Our interaction map helps to give us a click through of our application, with out the full designs.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/carnegieHere/sketches1.png&quot; alt=&quot;Sketches&quot; /&gt;
+&lt;img src=&quot;../img/carnegieHere/sketches2.png&quot; alt=&quot;Sketches&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;A couple images of sketches of our mobile interfaces.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/carnegieHere/slack.png&quot; alt=&quot;Slack&quot; class=&quot;image-center&quot; style=&quot;width: 70%;&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;In order to keep track and make sure everyone was up to speed on what each team was doing we decided to use Slack for communications and updates project wide.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/carnegieHere/wireframeStructure1.png&quot; alt=&quot;Wireframe Structure&quot; /&gt;
+&lt;img src=&quot;../img/carnegieHere/wireframeStructure2.png&quot; alt=&quot;Wireframe Structure Iterations&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;slideshow-container&quot;&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/carnegieHere/CarnegieHEREPresentation1.png&quot; alt=&quot;Slide 1&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/carnegieHere/CarnegieHEREPresentation2.png&quot; alt=&quot;Slide 2&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/carnegieHere/CarnegieHEREPresentation3.png&quot; alt=&quot;Slide 3&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/carnegieHere/CarnegieHEREPresentation4.png&quot; alt=&quot;Slide 4&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/carnegieHere/CarnegieHEREPresentation5.png&quot; alt=&quot;Slide 5&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/carnegieHere/CarnegieHEREPresentation6.png&quot; alt=&quot;Slide 6&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/carnegieHere/CarnegieHEREPresentation7.png&quot; alt=&quot;Slide 7&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/carnegieHere/CarnegieHEREPresentation8.png&quot; alt=&quot;Slide 8&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/carnegieHere/CarnegieHEREPresentation9.png&quot; alt=&quot;Slide 9&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/carnegieHere/CarnegieHEREPresentation10.png&quot; alt=&quot;Slide 10&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/carnegieHere/CarnegieHEREPresentation11.png&quot; alt=&quot;Slide 11&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/carnegieHere/CarnegieHEREPresentation12.png&quot; alt=&quot;Slide 12&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/carnegieHere/CarnegieHEREPresentation13.png&quot; alt=&quot;Slide 13&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/carnegieHere/CarnegieHEREPresentation14.png&quot; alt=&quot;Slide 14&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/carnegieHere/CarnegieHEREPresentation15.png&quot; alt=&quot;Slide 15&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/carnegieHere/CarnegieHEREPresentation16.png&quot; alt=&quot;Slide 16&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/carnegieHere/CarnegieHEREPresentation17.png&quot; alt=&quot;Slide 17&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/carnegieHere/CarnegieHEREPresentation18.png&quot; alt=&quot;Slide 18&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/carnegieHere/CarnegieHEREPresentation19.png&quot; alt=&quot;Slide 19&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/carnegieHere/CarnegieHEREPresentation20.png&quot; alt=&quot;Slide 20&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/carnegieHere/CarnegieHEREPresentation21.png&quot; alt=&quot;Slide 21&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/carnegieHere/CarnegieHEREPresentation22.png&quot; alt=&quot;Slide 22&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/carnegieHere/CarnegieHEREPresentation23.png&quot; alt=&quot;Slide 23&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/carnegieHere/CarnegieHEREPresentation24.png&quot; alt=&quot;Slide 24&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/carnegieHere/CarnegieHEREPresentation25.png&quot; alt=&quot;Slide 25&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/carnegieHere/CarnegieHEREPresentation26.png&quot; alt=&quot;Slide 26&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/carnegieHere/CarnegieHEREPresentation27.png&quot; alt=&quot;Slide 27&quot; /&gt; &lt;/div&gt;
+
+  &lt;a class=&quot;prev&quot; onclick=&quot;plusSlides(-1)&quot;&gt;&lt;div class=&quot;arrow&quot;&gt;&amp;#10094;&lt;/div&gt;&lt;/a&gt;
+  &lt;a class=&quot;next&quot; onclick=&quot;plusSlides(1)&quot;&gt;&lt;div class=&quot;arrow&quot;&gt;&amp;#10095;&lt;/div&gt;&lt;/a&gt;
+&lt;/div&gt;
+&lt;p&gt;The slide deck we presented showing what we came up with.&lt;/p&gt;
+</description>-->
+        <pubDate>Tue, 01 Dec 2015 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/carnegiehere</link>
+        <guid isPermaLink="true">http://localhost:4000/carnegiehere</guid>
+        
+        <category>iOS</category>
+        
+        <category>App</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Esporre (Web Portfolio Tool)</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/esporre/esporreLogo.svg&quot; alt=&quot;Esporre Logo&quot; class=&quot;image-center&quot; style=&quot;width: 40%&quot; /&gt;&lt;/div&gt;
+
+&lt;div style=&quot;margin-top: 60px&quot;&gt;
+&lt;a target=&quot;_blank&quot; href=&quot;http://processly.io&quot;&gt;
+    &lt;div class=&quot;processlyButton contentButton&quot;&gt; Check out further development here
+    &lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Our challenge was to create an digital portfolio tool or system that some problem within the K-12 education system for project based learning. Esporre is our answer to this. We decided to tackle this by thinking of the transition from personal to promotional for high school students. An example of this transition could come in the form of working on a class project then continuing to develop it outside of the classroom and from there it lead to a great learning experince and something that the student would want to share with the world.&lt;/p&gt;
+
+&lt;p&gt;I worked on this project with 2 of my colleagues and friends, Lauren Zito and Lucy Pei. For further information on our project also check out our &lt;a target=&quot;_blank&quot; href=&quot;http://naher94.github.io/esporre/&quot;&gt;splash page.&lt;/a&gt;&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/esporre/launchPageRendered.png&quot; alt=&quot;Launch Page&quot; class=&quot;image-center&quot; style=&quot;width: 70%&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/esporre/insightBoards.png&quot; alt=&quot;Jeff Insights&quot; /&gt;
+&lt;img src=&quot;../img/esporre/insightBoards2.png&quot; alt=&quot;Jessey Insights&quot; /&gt;
+&lt;img src=&quot;../img/esporre/insightBoards4.png&quot; alt=&quot;Chris Insights&quot; /&gt;
+&lt;img src=&quot;../img/esporre/insightBoards3.png&quot; alt=&quot;Megan Insights&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;From our user research we created insight boards, to help us distill and maintain focus on certain aspects of our design, above are a couple of our insight boards.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/esporre/relationMapFirst.svg&quot; alt=&quot;First Relation Map&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/esporre/relationMap.svg&quot; alt=&quot;Relation Map&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;These maps show the relationships between our user, the student or learner, and all other stateholders we wanted to built for. The first map shows our first iteration of the relation map and the second is our current map designing with the most emphasis on entities more to the left (closer to the learner).&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/esporre/realTimeBoard.png&quot; alt=&quot;Realtime Board&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;For this project we decided to user RealTimeBoard to organize and capture our process as well as use it as a tool inspiration.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/esporre/makerFaireProcess.png&quot; alt=&quot;Maker Faire Interviews&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/esporre/interviewAnalysis.png&quot; alt=&quot;Interview Analysis&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/esporre/paperPrototype.png&quot; alt=&quot;Paper Prototyping&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;A couple pictures showing our process of user testing at the Maker Faire in Pittsburgh, interview analysis and some user testing with our paper prototype.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/esporre/useCase1Tutorial.svg&quot; alt=&quot;Tutorial and Setup&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/esporre/useCase2SchoolProject.svg&quot; alt=&quot;School Project&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/esporre/useCase3HomeProject.svg&quot; alt=&quot;Out of School Project&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/esporre/useCase4Fair.svg&quot; alt=&quot;Science Fair&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/esporre/useCase5Publish.svg&quot; alt=&quot;Publishing and Sharing&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/esporre/systemDiagram.svg&quot; alt=&quot;System Map&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/esporre/wireframeMap.svg&quot; alt=&quot;Wireframe Map&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;This is our system diagram showing off the interactions and the use cases to get around our tool with and without our wireframes or designs.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/esporre/wireframes.png&quot; alt=&quot;Esporre Wireframes&quot; /&gt;&lt;/div&gt;
+
+</description>-->
+        <pubDate>Sat, 12 Dec 2015 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/esporre</link>
+        <guid isPermaLink="true">http://localhost:4000/esporre</guid>
+        
+        <category>web</category>
+        
+        <category>portfolio</category>
+        
+        <category>learning</category>
+        
+        <category>edtech</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Carnegie Mellon NYC</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/nyc/nycDIO.png&quot; alt=&quot;Home Page&quot; /&gt;&lt;/div&gt;
+
+&lt;div&gt;
+&lt;a target=&quot;_blank&quot; href=&quot;http://nyc.dzgn.io&quot;&gt;
+    &lt;div class=&quot;nycButton contentButton&quot;&gt; Check out the full site
+    &lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/nyc/screenshots.png&quot; alt=&quot;Page Screens&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/nyc/cmuEntities.png&quot; alt=&quot;Other CMU Programs&quot; /&gt;
+&lt;img src=&quot;../img/nyc/cornell.png&quot; alt=&quot;Cornell Campuses&quot; /&gt;
+&lt;img src=&quot;../img/nyc/uc1.png&quot; alt=&quot;UC Schools Part 1&quot; /&gt;
+&lt;img src=&quot;../img/nyc/uc2.png&quot; alt=&quot;UC schools Part 2&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;When starting this project we looked into other Carnegie Mellon campuses as well as other universities for how they deal with multiple campuses with different goals in mind. Cornell uses the same main branding across their entities with a secondary brand image representing that particular campus. In comparison the University of California system uses a different brand image for each campus and different visual language.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/nyc/brandingInspiration.png&quot; alt=&quot;Branding Inspiration&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/nyc/nycInspiration.png&quot; alt=&quot;NYC Inspiration&quot; style=&quot;width:100%;&quot; /&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;questions-to-answer&quot;&gt;Questions to Answer:&lt;/h3&gt;
+
+&lt;h4 id=&quot;what-are-the-public-emotional-assocaitions-of-cmu&quot;&gt;What are the public (emotional) assocaitions of CMU?&lt;/h4&gt;
+
+&lt;h4 id=&quot;what-is-the-nyc-campus-providing-what-is-its-program-structure-what-will-their-students-recieve&quot;&gt;What is the NYC campus providing? What is its program structure? What will their students recieve?&lt;/h4&gt;
+
+&lt;h4 id=&quot;what-kind-of-people-does-cmu-want-to-attract-to-their-nyc-campus&quot;&gt;What kind of people does CMU want to attract to their nyc campus?&lt;/h4&gt;
+
+&lt;h4 id=&quot;should-the-nyc-and-pitt-campuses-have-a-different-audience&quot;&gt;Should the nyc and pitt campuses have a different audience?&lt;/h4&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/nyc/brandSketches.png&quot; alt=&quot;Brand Sketches&quot; /&gt;
+&lt;img src=&quot;../img/nyc/brandingProcess.png&quot; alt=&quot;Branding Process&quot; /&gt;
+&lt;img src=&quot;../img/nyc/colorIteration.png&quot; alt=&quot;Color Iteration&quot; class=&quot;image-center&quot; style=&quot;width:70%&quot; /&gt;
+&lt;img src=&quot;../img/nyc/programChart.png&quot; alt=&quot;Program Chart&quot; /&gt;
+&lt;img src=&quot;../img/nyc/originalSiteBreakdown.png&quot; alt=&quot;Original Site Breakdown&quot; /&gt;
+&lt;img src=&quot;../img/nyc/siteBreakdownDetail.png&quot; alt=&quot;Site Breakdown Detail&quot; /&gt;
+&lt;img src=&quot;../img/nyc/bannerIterations.png&quot; alt=&quot;Banner Iterations&quot; /&gt;
+&lt;img src=&quot;../img/nyc/iterations.png&quot; alt=&quot;Page Iterations&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/nyc/slack.png&quot; alt=&quot;Slack&quot; class=&quot;image-center&quot; style=&quot;width: 70%;&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;In order to keep track and make sure everyone was up to speed on what each team was doing we decided to use Slack for communications and updates project wide.&lt;/p&gt;
+
+&lt;!--talk about the overal mission of this site--&gt;
+</description>-->
+        <pubDate>Tue, 09 Feb 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/cmunyc</link>
+        <guid isPermaLink="true">http://localhost:4000/cmunyc</guid>
+        
+        <category>web</category>
+        
+        <category>Dzgn.IO</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>CoLab (Sketch Plugin)</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/colab/logo.svg&quot; alt=&quot;Logo&quot; class=&quot;image-center&quot; style=&quot;width:25%&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;problem&quot;&gt;Problem&lt;/h2&gt;
+
+&lt;p&gt;Design is inherently collaborative. Existing tools such as Photoshop and Sketch are inconvenient for designers, since they have to work separately, then manually compare designs to resolve differences. Designers end up wasting time on redundant work, due to the lack of standard version control and file sharing methods.&lt;/p&gt;
+
+&lt;h2 id=&quot;our-solution&quot;&gt;Our Solution&lt;/h2&gt;
+&lt;p&gt;CoLab is a plugin that enables real-time collaboration and version control in Sketch, a popular tool among designers, and makes it convenient for them to design with their teams any me, anywhere.&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; src=&quot;https://www.youtube.com/embed/w0ZcpQ547Gg?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;As part of this project I worked with Alex Du, Aparna Sridhar Murthy, Chris Barker, Rishikesh Yardi.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot; style=&quot;margin-top:100px;&quot;&gt;&lt;img src=&quot;../img/colab/screenShots.png&quot; alt=&quot;Screenshots&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot; style=&quot;margin-top:100px;&quot;&gt;&lt;img src=&quot;../img/colab/dataStructure.svg&quot; alt=&quot;Data Implementation&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot; style=&quot;margin-top:100px;&quot;&gt;&lt;img src=&quot;../img/colab/stats.svg&quot; alt=&quot;Statistics&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot; style=&quot;margin-top:100px;&quot;&gt;&lt;img src=&quot;../img/colab/competitiveAnalysis.png&quot; alt=&quot;Competitive Analysis&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;slideshow-container&quot;&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/colab/presentation/presentation.png&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/colab/presentation/presentation2.png&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/colab/presentation/presentation3.png&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/colab/presentation/presentation4.png&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/colab/presentation/presentation5.png&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/colab/presentation/presentation6.png&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/colab/presentation/presentation7.png&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/colab/presentation/presentation8.png&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/colab/presentation/presentation9.png&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/colab/presentation/presentation10.png&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/colab/presentation/presentation11.png&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/colab/presentation/presentation12.png&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/colab/presentation/presentation13.png&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/colab/presentation/presentation14.png&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/colab/presentation/presentation15.png&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/colab/presentation/presentation16.png&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/colab/presentation/presentation17.png&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/colab/presentation/presentation18.png&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/colab/presentation/presentation19.png&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/colab/presentation/presentation20.png&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/colab/presentation/presentation21.png&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/colab/presentation/presentation22.png&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/colab/presentation/presentation23.png&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/colab/presentation/presentation24.png&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/colab/presentation/presentation25.png&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/colab/presentation/presentation26.png&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/colab/presentation/presentation27.png&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/colab/presentation/presentation28.png&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  
+  &lt;a class=&quot;prev&quot; onclick=&quot;plusSlides(-1)&quot;&gt;&lt;div class=&quot;arrow&quot;&gt;&amp;#10094;&lt;/div&gt;&lt;/a&gt;
+  &lt;a class=&quot;next&quot; onclick=&quot;plusSlides(1)&quot;&gt;&lt;div class=&quot;arrow&quot;&gt;&amp;#10095;&lt;/div&gt;&lt;/a&gt;
+&lt;/div&gt;
+</description>-->
+        <pubDate>Tue, 01 Mar 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/colab</link>
+        <guid isPermaLink="true">http://localhost:4000/colab</guid>
+        
+        <category>digital</category>
+        
+        <category>app</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Ideate Branding</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/ideate/logo.svg&quot; alt=&quot;Final Logo&quot; class=&quot;image-center&quot; style=&quot;width:60%; margin-top: 50px; margin-bottom: 100px;&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;slideshow-container&quot; style=&quot;margin-bottom:50px&quot;&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/ideate/slide1.png&quot; alt=&quot;The Idea&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/ideate/slide2.png&quot; alt=&quot;The Icon&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/ideate/slide3.png&quot; alt=&quot;The System&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/ideate/slide4.png&quot; alt=&quot;Wordmark&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/ideate/slide5.png&quot; alt=&quot;Logo&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/ideate/slide6.png&quot; alt=&quot;System Intro&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/ideate/slide7.png&quot; alt=&quot;Subbrands part 1&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/ideate/slide8.png&quot; alt=&quot;subbrands part 2&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/ideate/slide9.png&quot; alt=&quot;Applications&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/ideate/slide10.png&quot; alt=&quot;T-Shirt&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/ideate/slide11.png&quot; alt=&quot;Business Cards&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  &lt;div class=&quot;gallery-asset fade&quot;&gt; &lt;img src=&quot;../img/ideate/slide12.png&quot; alt=&quot;Wall Sign&quot; style=&quot;width:100%&quot; /&gt; &lt;/div&gt;
+  
+  
+  &lt;a class=&quot;prev&quot; onclick=&quot;plusSlides(-1)&quot;&gt;&lt;div class=&quot;arrow&quot;&gt;&amp;#10094;&lt;/div&gt;&lt;/a&gt;
+  &lt;a class=&quot;next&quot; onclick=&quot;plusSlides(1)&quot;&gt;&lt;div class=&quot;arrow&quot;&gt;&amp;#10095;&lt;/div&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/ideate/ideateSketches.png&quot; class=&quot;image-center&quot; alt=&quot;Sketches&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/ideate/rhino.png&quot; class=&quot;image-center&quot; alt=&quot;CAD Iterations&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/ideate/iterations.svg&quot; alt=&quot;Logo Iterations&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/ideate/iterations2.svg&quot; alt=&quot;Logo Iterations&quot; /&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;some-feedback-from-ideate-faculty-be-less-safe---the-current-iteration-is-very-conventional-ideate-should-be-weird-strange-quirky-dynamic-etc-more-weird-please&quot;&gt;Some feedback from Ideate faculty “be less safe - the current iteration is very conventional. ideate should be weird, strange, quirky, dynamic, etc. more weird please.”&lt;/h4&gt;
+&lt;h4 id=&quot;id-focus-less-on-the-word-ideate-and-more-on-the-significance-or-ideas-behind-it&quot;&gt;“I’d focus less on the word (ideate) and more on the significance or ideas behind it.”&lt;/h4&gt;
+&lt;h4 id=&quot;how-do-you-show-the-intersection-of-art-design-and-technology-through-a-simple-iconic-element-or-visual-treatment&quot;&gt;“how do you show the intersection of art, design and technology through a simple iconic element or visual treatment”&lt;/h4&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/ideate/iterations3.svg&quot; alt=&quot;Logo Iterations&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Given some of this feedback and thinking bigger towards a brand system over a strict wordmark design, I explored and landed on a circle based hexagon grid as seen in these iterations.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/ideate/iterations4.svg&quot; alt=&quot;Logo Iterations&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/ideate/iterations5.svg&quot; alt=&quot;Logo Iterations&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/ideate/iterations6.png&quot; alt=&quot;Logo Iterations: Color Exploration&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Playing with colors here! &lt;span class=&quot;emoji emoji-thumbs_up&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/ideate/usage.png&quot; alt=&quot;Brand Usage&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;We made some t-shirts and stickers to celebrate! &lt;span class=&quot;emoji emoji-party&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+</description>-->
+        <pubDate>Tue, 01 Mar 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/ideate</link>
+        <guid isPermaLink="true">http://localhost:4000/ideate</guid>
+        
+        <category>digital</category>
+        
+        <category>branding</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Illustrations</title>
+<!--        <description>&lt;!--the process of the illustration sketch to rhino to illustrator--&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/illustrations/mango.jpg&quot; alt=&quot;Penguin + Mango&quot; /&gt;&lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/illustrations/lollipop.jpg&quot; alt=&quot;Penguin + Lollipop&quot; /&gt;&lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/illustrations/bus.png&quot; alt=&quot;Penguin + London Bus&quot; /&gt;&lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/illustrations/tube.png&quot; alt=&quot;Penguin + London Tube&quot; /&gt;&lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/illustrations/nycity.gif&quot; alt=&quot;nycity Lettering&quot; /&gt;&lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/illustrations/laugh.gif&quot; alt=&quot;Laugh Lettering&quot; /&gt;&lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/illustrations/stingray.gif&quot; alt=&quot;Stingray Drawing&quot; /&gt;&lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/illustrations/giraffe.png&quot; alt=&quot;Giraffe Drawing&quot; /&gt;&lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/illustrations/movieTime.jpg&quot; alt=&quot;Penguin + Movie Time&quot; /&gt;&lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/illustrations/coffee.png&quot; alt=&quot;Penguin + Coffee&quot; /&gt;&lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/illustrations/tennis.jpg&quot; alt=&quot;Penguin + Tennis&quot; /&gt;&lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/illustrations/penguinNaara.png&quot; alt=&quot;Penguin + Naara&quot; /&gt;&lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/illustrations/newYear2016.png&quot; alt=&quot;Penguin + New Year&quot; /&gt;&lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/illustrations/bb8.png&quot; alt=&quot;Penguin + BB-8&quot; /&gt;&lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/illustrations/amazon.jpg&quot; alt=&quot;Penguin + Amazon&quot; /&gt;&lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/illustrations/licorice.jpg&quot; alt=&quot;Penguin + Licorice&quot; /&gt;&lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/illustrations/plant.jpg&quot; alt=&quot;Penguin + Plant&quot; /&gt;&lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/illustrations/sushi.jpg&quot; alt=&quot;Penguin + Sushi&quot; /&gt;&lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/illustrations/theDoctor.jpg&quot; alt=&quot;Penguin + The Doctor&quot; /&gt;&lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/illustrations/watermelon.jpg&quot; alt=&quot;Penguin + Watermelon&quot; /&gt;&lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/illustrations/wizard.jpg&quot; alt=&quot;Penguin + Wizard&quot; /&gt;&lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/illustrations/sparklers.jpg&quot; alt=&quot;Penguin + Independence Day&quot; /&gt;&lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/illustrations/super.jpg&quot; alt=&quot;Penguin + Super&quot; /&gt;&lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/illustrations/giraffenaut.png&quot; alt=&quot;Space Giraffe&quot; /&gt;&lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/illustrations/happyBirthday.png&quot; alt=&quot;Happy Birthday&quot; /&gt;&lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/illustrations/ram.jpg&quot; alt=&quot;RAM&quot; /&gt;&lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/illustrations/basilKisses.png&quot; alt=&quot;St. Basil Kisses&quot; /&gt;&lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/illustrations/grilledCheese.jpg&quot; alt=&quot;Grilled Cheese&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/illustrations/kiteMrBond.png&quot; alt=&quot;Kite Dancing in a Hurricane Mr. Bond&quot; /&gt;&lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns quote&quot;&gt;&quot;You're a kite dancing in a hurricane Mr. Bond&quot;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/illustrations/followingFollowing.jpg&quot; alt=&quot;Map that Leads to You&quot; /&gt;&lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns quote&quot;&gt;&quot;The map that leads to you... Following, following, following to you&quot;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/illustrations/badBlood.jpg&quot; alt=&quot;Bad Blood: Taylor Swift&quot; /&gt;&lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/illustrations/karat.png&quot; alt=&quot;karat&quot; /&gt;&lt;/div&gt;
+    &lt;!--&lt;div class=&quot;small-12 large-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/illustrations/BB8Stylize.png&quot; alt=&quot;BB8 Stylize&quot; /&gt;&lt;/div&gt;--&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;check-out-my-dribbble-page-for-even-more-illustrations&quot;&gt;Check out my &lt;a target=&quot;_blank&quot; href=&quot;https://dribbble.com/rehanbutt&quot;&gt;Dribbble&lt;/a&gt; page for even more illustrations!&lt;/h3&gt;
+</description>-->
+        <pubDate>Tue, 01 Mar 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/illustrations</link>
+        <guid isPermaLink="true">http://localhost:4000/illustrations</guid>
+        
+        <category>digital,</category>
+        
+        <category>illustration</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Sun Spot: Portable UV Detection</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/sunSpot/hero.jpeg&quot; alt=&quot;Sun Spot in Use&quot; /&gt;&lt;/div&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/148396535&quot; width=&quot;100%&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;We constructed a wearable device that can attach to a backpack or bag and notifies the user when they have been exposed to too much UV radiation. The audience for this project includes people who spend a significant amount of time outdoors and are concerned about preventing skin cancer and other UV radiation exposure related diseases. For example, as a product it could be marketed toward more active users, such as surfers or beach goers, and specifically users in Australia or South Africa, as both have a large problem with skin caner. SunSpot would be embedded in the arm of a swim shirt or as could be used as beacons or node for the whole family while on the beach.&lt;/p&gt;
+
+&lt;p&gt;The notification system has two responses: it quickly buzzes once every hour except the fourth hour where it would continue to buzz until the user cuts off their UV exposure by going inside or sitting in a shaded area. Once the threshold drops, the buzz will end and the loop will start over again. This timing was chosen because after an hour of UV exposure erythema, or sunburn, of the skin begins, and after four hours the damage to skin cells peaks to dangerous levels.&lt;/p&gt;
+
+&lt;p&gt;The device consists of a UV sensor, pulse motor, and a Teensy 3.1 microcontroller. All of the elements were soldered to a protoboard and two pairs of coin batteries were wired in parallel to give the unit 6V of Power. The sensor takes a reading once every second, and calculates an average of the last minute’s worth of values. The housing allows for the sensor to receive light and allows for battery changes while keeping the device contained and protected.&lt;/p&gt;
+
+&lt;p&gt;The project was extremely successful in the end. The sensor consistently and correctly triggered the pulse motor, and the logic behind the input threshold and output notification is easily understood by users. A Teensy was implemented instead of a Gemma because the Gemma would not communicate with any computer it was connected to. Initially we aimed to make a wearable watch; however, getting the device to be small enough to be comfortable on a wrist was not possible especially without the Gemma and with the bulky pairs of coin batteries. The current backpack accessory design still fits with the original narrative and felt like a logical direction to choose.&lt;/p&gt;
+
+&lt;p&gt;I worked on this project with two colleagues of mine, Katelyn Smith &amp;amp; Alex Palatucci.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/sunSpot/tech.jpeg&quot; alt=&quot;The Hardware&quot; /&gt;&lt;/div&gt;
+
+</description>-->
+        <pubDate>Tue, 01 Mar 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/sunspot</link>
+        <guid isPermaLink="true">http://localhost:4000/sunspot</guid>
+        
+        <category>fabrication</category>
+        
+        <category>physical</category>
+        
+        <category>computing</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Apple News for MacOS</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/appleNews/appIcon.png&quot; alt=&quot;Logo&quot; class=&quot;image-center&quot; style=&quot;width:30%&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Apple News is a wonderful part of iOS. A clean place to follow all the news you want. But why hasn’t it made its way over to MacOS? Wouldn’t it be nice to have the same curated news experience on your Mac, rather than opening several browser tabs to get a similar experience? I thought so and decided to mockup what Apple News on MacOS could look like.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot; style=&quot;margin-top:100px;&quot;&gt;&lt;img src=&quot;../img/appleNews/macApp.png&quot; alt=&quot;Mac App Interface&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;div class=&quot;image-container&quot; style=&quot;margin-top:100px; margin-bottom:100px&quot;&gt;&lt;img src=&quot;../img/appleNews/overTheYears.png&quot; alt=&quot;Apple News Icon Over the Years&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;I wanted to review the design language changes and the evolution of the news eco-system looking back from Newsstand to the current Apple News.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot; style=&quot;margin-top:100px; margin-bottom:100px;&quot;&gt;&lt;img src=&quot;../img/appleNews/macAppIconGrid.png&quot; alt=&quot;Mac App Icon Grid&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;My first step in designing the icon for Apple News was looking at the three icon types and their grids that were introduced with Mac OS X Yosemite. I decided to use the rotated rectangle as it maps closest to a newspaper and because it resembles an analog paper stack as is the case with icons for Notes and Reminders.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot; style=&quot;margin-top:100px;&quot;&gt;&lt;img src=&quot;../img/appleNews/iconIterations.png&quot; alt=&quot;Icon Iteration&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot; style=&quot;margin-top:50px;&quot;&gt;&lt;img src=&quot;../img/appleNews/iconIterations2.png&quot; alt=&quot;Icon Iterations&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot; style=&quot;margin-top:100px;&quot;&gt;&lt;img src=&quot;../img/appleNews/iphoneUI.png&quot; alt=&quot;Apple News iPhone UI&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot; style=&quot;margin-top:100px;&quot;&gt;&lt;img src=&quot;../img/appleNews/macApps.png&quot; alt=&quot;Mac Apps&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot; style=&quot;margin-top:50px; margin-bottom:100px&quot;&gt;&lt;img src=&quot;../img/appleNews/macApps2.png&quot; alt=&quot;Mac Apps&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;I took a look at several differant Apple applications, looking at the differant navigation paradigms, styles, grids and scale of differant components.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot; style=&quot;margin-top:100px;&quot;&gt;&lt;img src=&quot;../img/appleNews/appleNewsWeb.png&quot; alt=&quot;Apple.com/news&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot; style=&quot;margin-top:50px;&quot;&gt;&lt;img src=&quot;../img/appleNews/grid.png&quot; alt=&quot;Grid Structure&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot; style=&quot;margin-top:50px;&quot;&gt;&lt;img src=&quot;../img/appleNews/smallArticleIterations.png&quot; alt=&quot;Small Article Iteration&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;I developed some iterations of the small article type, with varying text, logo alignments and image placements within a horizontal bounding area. I applied stylings of existing Apple apps and Apple News on iOS to create Apple News for MacOS, with the intention to bring a great news application to the entire Apple eco-system.&lt;/p&gt;
+</description>-->
+        <pubDate>Sun, 09 Oct 2016 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/applenews</link>
+        <guid isPermaLink="true">http://localhost:4000/applenews</guid>
+        
+        <category>digital</category>
+        
+        <category>UI</category>
+        
+        <category>UX</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Wats:ON? Website Refresh</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/watson/hero.png&quot; alt=&quot;WatsON Hero Shot&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;The wats:ON? Festival is a Carnegie Mellon staple, bringing an eclectic range of nationally and internationally renowned artists and their works to campus, providing a forum for interaction and collaboration between students and faculty from diverse fields within the campus community and beyond.&lt;/p&gt;
+
+&lt;p&gt;We wanted to elevate the festival’s web presence with a new website. Letting the community enjoy the amazing artist work after the festival. Our proposal takes a dive into the current site and simplifies the experience for the audience, while maintaining the strong brand the Wats:ON? Festival brings.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/watson/finalproposal.png&quot; alt=&quot;Final Proposal&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/watson/siteaudit.png&quot; alt=&quot;Original Site Audit&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;One of the first steps we took was looking at the current state of affairs of the site. The pages were divided into 3 main groups: about, current festival and past festivals. The current festival and past festival sections were very much the same minus a schedule of events. Both sections housed their respective artist pages displaying the work they presented.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/watson/currentbrand.png&quot; alt=&quot;Current Brand&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/watson/sketchprocess.png&quot; alt=&quot;Sketch App Process&quot; /&gt;&lt;/div&gt;
+</description>-->
+        <pubDate>Tue, 15 Nov 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/watson</link>
+        <guid isPermaLink="true">http://localhost:4000/watson</guid>
+        
+        <category>web</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Motion Capture Wrapping Paper</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/mocapPaper/box.png&quot; alt=&quot;Logo&quot; class=&quot;image-center&quot; style=&quot;width:50%&quot; /&gt;&lt;/div&gt;
+
+&lt;!--Get a better picture of this--&gt;
+
+&lt;p&gt;How did this project come to be? One of my courses had asked us to do a quick project with the idea of using a motion capture system to track a “tool”. We struggled for a bit trying to figure out just how to use the capture software and read out the maker points. The first step was to set up and calibrate the sensors to ensure that the points were accurately captured in the space. Now we were ready to make our tool using a rigid body rig, which is 3 tracking markers that hold their relative position at all times. Once we had our tool we were ready to record our motion path.&lt;/p&gt;
+
+&lt;p&gt;As part of this project we were given a Grasshopper script in order to pull the motion tracking data into Rhino 3D. Both of us not being familiar with Grasshopper just started to play around with the given script. Quickly we found that the capture stream was coming in bite sized pieces which provided us shape segments; single arcs or segments rather than the whole drawing. You could say this was a happy accident of not knowing exactly what we were doing. I wanted to create something unique given these micro motions and decided to take the movement and create a 2D drawing.  This pattern was created using a particular view of the path and several different sizes of the motion. Once I had created the image I noticed it could be neat tessellated and then thought wouldn’t it be interesting printed at several different scales and used as a fun unique gestural wrapping paper!&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot; style=&quot;margin-top:50px;&quot;&gt;&lt;img src=&quot;../img/mocapPaper/pattern.png&quot; alt=&quot;The Pattern&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot; style=&quot;margin-top:50px;&quot;&gt;&lt;img src=&quot;../img/mocapPaper/patternZoomed.png&quot; alt=&quot;The Pattern Zommed In&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;!--Image of grasshopper script--&gt;
+&lt;!--picture of the tool--&gt;
+&lt;div class=&quot;row&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;
+  &lt;div class=&quot;image-container small-6 column&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;&lt;img src=&quot;../img/mocapPaper/wanding.gif&quot; alt=&quot;Wanding&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;image-container small-6 column&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;&lt;img src=&quot;../img/mocapPaper/wanding2.gif&quot; alt=&quot;Wanding Output&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;!--gif of the motion--&gt;
+
+&lt;div class=&quot;image-container&quot; style=&quot;margin-top:50px;&quot;&gt;&lt;img src=&quot;../img/mocapPaper/rhino.png&quot; alt=&quot;Rhino Screenshot&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Screenshot of the Rhino interface, where I was deciding what angle of the motion to use.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot; style=&quot;margin-top:20px;&quot;&gt;&lt;img src=&quot;../img/mocapPaper/aiScreenshot.png&quot; alt=&quot;Illustrator Screenshot&quot; /&gt;&lt;/div&gt;
+</description>-->
+        <pubDate>Fri, 02 Dec 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/mocappaper</link>
+        <guid isPermaLink="true">http://localhost:4000/mocappaper</guid>
+        
+        <category>digital</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Jasper the Color Bot</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/colorBot/intro.svg&quot; alt=&quot;Logo Equation&quot; class=&quot;image-center&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Jasper is a color tool to expand your color vocabulary and provide a new form of inspiration.&lt;/p&gt;
+
+&lt;p&gt;Building on colors inspiration tools like &lt;a href=&quot;http://color.adobe.com&quot;&gt;Adobe’s Color&lt;/a&gt;, &lt;a href=&quot;https://www.design-seeds.com/blog/&quot;&gt;Design Seeds&lt;/a&gt; and &lt;a href=&quot;http://www.lolcolors.com&quot;&gt;LOLColors&lt;/a&gt;. I want to give users daily color inspiration from Pantone’s &lt;a href=&quot;https://www.pantone.com/colorstrology&quot;&gt;color of the day&lt;/a&gt;. I would like to build a Slack bot to help users think about color in a new light (the Pantone light) and expand the user’s color vocabulary. Additionally, I would like users to have the option to request images that use that color for further inspiration. I plan to build this by pulling the color of the day from Pantone’s &lt;a href=&quot;https://www.pantone.com/colorstrology&quot;&gt;Colorstrology&lt;/a&gt; and using that color to search Dribbble or other similar sites to surface images for the user.&lt;/p&gt;
+
+&lt;p&gt;For this iteration, I decided to build Jasper as an SMS bot using Twilio, to keep development. I plan to port Jasper to Slack as the interactions for a team will be far more compelling than that of an individual.&lt;/p&gt;
+
+&lt;p&gt;Sadnote: Pantone does not store a public list of all their daily colors :(&lt;/p&gt;
+
+&lt;p&gt;In &lt;a href=&quot;https://github.com/naher94/jasper/releases/tag/V1.0&quot;&gt;Version (V1.0)&lt;/a&gt; Jasper can pull up today’s color of the day and provide up to 4 images using that color. Jasper can also pull up yesterday’s color with images and have a bit of fun with the responses. The color data is scraped from Pantone’s &lt;a href=&quot;https://www.pantone.com/colorstrology&quot;&gt;Colorstrology&lt;/a&gt; site and stored in the Swatch Table of the database. After the color data is collected a secondary function runs that scrapes 4 images from Dribbble given the hex value of the color, and stores it in the Image Table.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot; style=&quot;margin-top:50px;&quot;&gt;&lt;img src=&quot;../img/colorBot/conversation.png&quot; alt=&quot;A full Conversation with Jasper&quot; /&gt;&lt;/div&gt;
+
+&lt;div&gt;
+&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/naher94/jasper&quot;&gt;
+    &lt;div class=&quot;colorBotButton contentButton&quot;&gt; Check out the code
+    &lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Effort/Priority&lt;/th&gt;
+      &lt;th&gt;High&lt;/th&gt;
+      &lt;th&gt;Medium&lt;/th&gt;
+      &lt;th&gt;Low&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Low&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Pull Tweets with #coloroftheday&lt;/td&gt;
+      &lt;td&gt;clear formating&lt;/td&gt;
+      &lt;td&gt;Creative error handling&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Medium&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Store a list of requested colors from the user&lt;/td&gt;
+      &lt;td&gt;Upload image of the color swatch&lt;/td&gt;
+      &lt;td&gt;…&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;High&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;…&lt;/td&gt;
+      &lt;td&gt;Include the Hex value (pull from CSS styling)&lt;/td&gt;
+      &lt;td&gt;Pull images that use the color&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;As part of the development process I created the above matrix to help prioritize my time the essentials of app.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot; style=&quot;margin-top:50px;&quot;&gt;&lt;img src=&quot;../img/colorBot/personality.svg&quot; alt=&quot;Personality&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;In order to create a better bot experience, I wanted to make sure Jasper had some personality. I defined different traits to help create the right tone for Jasper. I wanted a colloquial voice in order for the user to easily connect with Jasper just like a close friend, being fun, trendy and relevant. One example of this is using emojis in responses as an added personality tool.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;jaspers-fun-phrases&quot;&gt;Jasper’s Fun Phrases&lt;/h3&gt;
+
+&lt;h4 id=&quot;awesome-sauce-give-me-one-second-coming-right-up-enjoy-your-inspiration-you-there-wonderful-colors-await-you-happy-coloring--im-jasper-your-friendly-neighborhood-color-master&quot;&gt;“Awesome sauce! Give me one second.” “Coming right up!” “Enjoy your Inspiration!” “You there? Wonderful colors await you!” “Happy coloring! 🎨🎉” “I’m Jasper your friendly neighborhood color master”&lt;/h4&gt;
+
+&lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot; style=&quot;margin-top:20px;&quot;&gt;&lt;img src=&quot;../img/colorBot/workflowDiagram.png&quot; alt=&quot;Workflow Diagram&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot; style=&quot;margin-top:20px; margin-bottom:50px;&quot;&gt;&lt;img src=&quot;../img/colorBot/workflowDiagramUpdated.png&quot; alt=&quot;Workflow Diagram Updated&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot; style=&quot;margin-top:20px; margin-bottom:50px;&quot;&gt;&lt;img src=&quot;../img/colorBot/workflowDiagramFinal.png&quot; alt=&quot;Workflow Diagram Final&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;I created this workflow diagram as a way to help me compartmentalize the interactions and the functions that needed to be created and as a way to user test before spending any time in development. From my Wizard of Oz testing I found I was missing error cases as well as cases of confirmation that were not explicitly “yes”. The other thing I learnt was to create a way for the bot to help the user when the interaction is not super clear or the user would like answers outside of the created toolset.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot; style=&quot;margin-top:20px;&quot;&gt;&lt;img src=&quot;../img/colorBot/dataStructure.png&quot; alt=&quot;Data Structure&quot; /&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;a-couple-of-other-thoughts&quot;&gt;A Couple of Other Thoughts&lt;/h3&gt;
+
+&lt;p&gt;For the next iteration of Jasper, I would like to port him to Slack for an entire team to interact and add additional features. One of these features will be the ability to pull up images from several different sources in addition to Dribbble and be able to provide images that are more relevant to the project the user is working on. It will provide photos for a presentation or UI images to help design a better UI feel using these color tones. Another feature I would like to incorporate is the ability to pull images from a Slack conversation and create a potential color scheme given a wireframe and thematic words.&lt;/p&gt;
+
+&lt;p&gt;Looking back on this process I learnt a fair bit about developing and deploying a bot, which will come in handy for any future developments. I also learnt about databases and the best way to set up the tables. From a creative aspect, I further learnt about various aspects involving human interaction.  People never do what’s expected of them, requiring development of simple and seamless interactions, while maintaining character of your application or bot, much like a stage production.&lt;/p&gt;
+
+</description>-->
+        <pubDate>Sun, 04 Dec 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/colorbot</link>
+        <guid isPermaLink="true">http://localhost:4000/colorbot</guid>
+        
+        <category>bot</category>
+        
+        <category>color</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Conversational Design (Thesis)</title>
+<!--        <description>&lt;p&gt;As a designer I am very much interested in the design process and the tools used in the design process. One aspect that I find exceptionally interesting about the design process is how we communicate with one other specifically within the realm of verbal communication and conversation. Conversation and verbal communication was one of the first ways stories were passed down and still plays a very important role in our daily lives today from a quick chat in the hallway to formal presentations. As such I would like to wrap my thesis around this idea and create a tool to augment the design process from verbal input. Along the way we will explore the role that conversation and vocal communication plays in design. If you would like a more in depth look at my thoughs feel free to read my &lt;a target=&quot;_blank&quot; href=&quot;../img/conversationalDesign/conversationalDesignPaper.pdf&quot;&gt;paper&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div&gt;
+&lt;a target=&quot;_blank&quot; href=&quot;http://thesis.rehanbutt.com&quot;&gt;
+    &lt;div class=&quot;thesisButton contentButton&quot;&gt; Check out the thesis journey
+    &lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/conversationalDesign/designProcess.svg&quot; alt=&quot;Design Process&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;I started by looking at what a design process could look like and came up what is shown above. The idea that designers either receive a prompt with the problem or find a problem to solve then jump into understanding the problem. Below I have created a storyboard that could be one injection of my design assistant into the “understanding the problem” phase of the design process. Throughout this project I would like to continue expanding what a design process is as well as create more scenario storyboards for each place where I see a useful injection of the design assistant.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot; style=&quot;margin-top:50px;&quot;&gt;&lt;img src=&quot;../img/conversationalDesign/promptStoryBoard.svg&quot; alt=&quot;Storyboarding the Prompt&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;For several years now I have been exploring the design process and tools that exist in the space as well as designing new tools to solve certain pain points. One of the first projects that explored this was &lt;a target=&quot;_blank&quot; href=&quot;../esporre/&quot;&gt;Esporre&lt;/a&gt;, which explored the portfolio process, archiving storing and showcasing your work. Esporre has now evolved into, &lt;a target=&quot;_blank&quot; href=&quot;http://processly.io&quot;&gt;Processly&lt;/a&gt;, which looks at the process of producing work and how we work. Another aspect that I am very interested is that of color and the role color plays in our designs, which has lead me to thinking about several tools that could improve the space. One experiment of that is &lt;a target=&quot;_blank&quot; href=&quot;../colorbot&quot;&gt;Jasper&lt;/a&gt;, a color bot with the idea to expand your color vocabulary and provide a new source of inspiration, as a bot this project also explores the space of conversational design, bringing it full circle.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot; style=&quot;margin-top:50px;&quot;&gt;&lt;img src=&quot;../img/conversationalDesign/personality.svg&quot; alt=&quot;Jasper Personality&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;One aspect of Jasper or any bot interaction that I would like to call out is that of personality and the seamlessness of the interactions with a piece of technology. These interactions are critical as it holds together the product. As I mention in my &lt;a target=&quot;_blank&quot; href=&quot;../img/conversationalDesign/conversationalDesignPaper.pdf&quot;&gt;paper&lt;/a&gt; seamlessness and a huge margin of error is important as we never know how users will interaction. Whether be with an emoji, fragmented sentence or full sentences. And this varies across many areas including cultures, individual personalities and disciplines. 
+&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;div class=&quot;image-container&quot; style=&quot;margin-top:50px;&quot;&gt;&lt;img src=&quot;../img/conversationalDesign/storyboardSketches.png&quot; alt=&quot;Storyboarding Sketches&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot; style=&quot;margin-top:50px;&quot;&gt;&lt;img src=&quot;../img/conversationalDesign/moodboard.png&quot; alt=&quot;Moodboard System Sketches&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot; style=&quot;margin-top:50px;&quot;&gt;&lt;img src=&quot;../img/conversationalDesign/imageSearch.png&quot; alt=&quot;Image Search Walkthrough Sketches&quot; /&gt;&lt;/div&gt;
+</description>-->
+        <pubDate>Fri, 16 Dec 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/conversationaldesign</link>
+        <guid isPermaLink="true">http://localhost:4000/conversationaldesign</guid>
+        
+        <category>bot</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Interchange</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/interchange/logo.svg&quot; alt=&quot;Logo&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Interchange, a career event, was created as a way to help the graduate students of Carnegie Mellon’s School of Architecture to help them connect with the creative industry. As part of this new initiative I branded and developed a website for students to showcase their work ahead of the event. It will provide organizations an opportunity to learn about student’s work within different degree programs; from architectural building performance to computational design.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/interchange/screenshots.png&quot; alt=&quot;Website Screenshots&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/interchange/mobileFriendly.png&quot; alt=&quot;Mobile Site Screenshots&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;As this site will be used by many students, I templated and created a style guide throughout the site for a uniform look and feel. Keeping in mind the need for a variety of content types and optional information fields such as personal websites and resumes on the profile pages. I built the site using Jekyll to template each page and to automate the connection of pages such as people and their projects and tagging people with their degree program.&lt;/p&gt;
+
+&lt;div&gt;
+&lt;a target=&quot;_blank&quot; href=&quot;https://naher94.github.io/interchange&quot;&gt;
+    &lt;div class=&quot;interchangeButton contentButton&quot;&gt; Check out the site
+    &lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+  &lt;img src=&quot;../img/interchange/codelab.png&quot; alt=&quot;The CodeLab&quot; style=&quot;width:100%;&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;
+  &lt;img src=&quot;../img/interchange/wayfinding.png&quot; alt=&quot;Wayfinding Stickers&quot; /&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/interchange/sketches.png&quot; alt=&quot;Sketches&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/interchange/brandInspiration.png&quot; alt=&quot;Brand Inspiration&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot; style=&quot;margin-top:50px;&quot;&gt;&lt;img src=&quot;../img/interchange/logoIterations.svg&quot; alt=&quot;Logo Iterations&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/interchange/postcardIterations.png&quot; alt=&quot;Postcard Iterations&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/interchange/posterSeries.png&quot; alt=&quot;Poster Series&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/interchange/stickerTest.png&quot; alt=&quot;Floor Sticker Test&quot; /&gt;&lt;/div&gt;
+
+&lt;div&gt;
+&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/naher94/interchange&quot;&gt;
+    &lt;div class=&quot;interchangeButton contentButton&quot;&gt; Check out the code
+    &lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+</description>-->
+        <pubDate>Fri, 30 Dec 2016 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/interchange</link>
+        <guid isPermaLink="true">http://localhost:4000/interchange</guid>
+        
+        <category>branding</category>
+        
+        <category>webdev</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Tangible Interaction Design Branding</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/tid/logo.png&quot; alt=&quot;Final Logo&quot; class=&quot;image-center&quot; style=&quot;width:60%&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;This past year the Masters of Tangible Interaction Design (MTID) program came back to Carnegie Mellon University. I was accepted into the Masters program with its reintroduction and I took it upon myself to brand the program and give it a platform to speak from. My goal was to showcase the different types of projects that the MTID students are working on, from installation pieces to virtual reality pieces and many projects in between. I also wanted to create a brand system that could be adapted for all types of media: print (static), web (static or animated), and interactive. I chose to express the diversity of projects through imagery of the work along with several shapes exploring different moods while maintaining the overall image through the consistent use of the ‘TiD’ logo.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/tid/logo2.png&quot; alt=&quot;Final Logo + Context&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/tid/sketches.png&quot; alt=&quot;Branding Sketches&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/tid/sketches2.png&quot; alt=&quot;Branding Sketches&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/tid/brandInspiration.png&quot; alt=&quot;Branding Inspiration&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;row&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;
+  &lt;div class=&quot;image-container small-6 medium-3 column&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;&lt;img src=&quot;../img/tid/animate1.gif&quot; alt=&quot;Animation Inspiration&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;image-container small-6 medium-3 column&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;&lt;img src=&quot;../img/tid/animate2.gif&quot; alt=&quot;Animation Inspiration&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;image-container small-6 medium-3 column&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;&lt;img src=&quot;../img/tid/animate4.gif&quot; alt=&quot;Animation Inspiration&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;image-container small-6 medium-3 column&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;&lt;img src=&quot;../img/tid/animate3.gif&quot; alt=&quot;Animation Inspiration&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;image-container&quot; style=&quot;margin-top:50px;&quot;&gt;&lt;img src=&quot;../img/tid/logoIterations.svg&quot; alt=&quot;Logo Iterations&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Several logo iterations looking at shape, scale, placement, weight and intensity of the graphic.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot; style=&quot;margin-top:50px;&quot;&gt;&lt;img src=&quot;../img/tid/posterIterations1.png&quot; alt=&quot;Poster Iterations&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/tid/posterIterations2.png&quot; alt=&quot;Poster Iterations&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/tid/posterIterations3.png&quot; alt=&quot;Poster Iterations&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/tid/posterIterations4.png&quot; alt=&quot;Poster Iterations&quot; /&gt;&lt;/div&gt;
+</description>-->
+        <pubDate>Wed, 25 Jan 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/tid</link>
+        <guid isPermaLink="true">http://localhost:4000/tid</guid>
+        
+        <category>Branding</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Sticker Packs</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;
+&lt;img src=&quot;../img/stickerPack/stickerpackHero.png&quot; alt=&quot;App Icon&quot; class=&quot;image-center&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;A couple years ago I started creating a bunch of penguin illustrations, just because and ever since I have been creating illustrations and posting them to &lt;a href=&quot;https://www.instagram.com/naher94/&quot;&gt;Instagram&lt;/a&gt; and my &lt;a href=&quot;http://blog.rehanbutt.com&quot;&gt;blog&lt;/a&gt; such as the ones featured below. After creating this penguin identity one of my good friends suggested I create “penguin emoji” so people can use them since many people find them quite cute. Months past and I had some time to look into it leading me to iMessage Sticker Packs. And that’s how this happened, creating more and more penguins now joining you in your conversation. Enjoy!&lt;/p&gt;
+
+&lt;p&gt;After creating the penguin sticker pack, I decided to expand the stickers of my friend’s dog, Naara, who has a huge following on Instagram. Follow her &lt;a target=&quot;_blank&quot; href=&quot;https://www.instagram.com/naara.thehusky/&quot;&gt;here.&lt;/a&gt; Enjoy!&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;http://penguin.rehanbutt.com&quot;&gt;
+      &lt;div class=&quot;stickerPackButton contentButton&quot;&gt; Check out the Penguin Stickers
+      &lt;/div&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;margin-top: 20px;&quot;&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;http://naara.rehanbutt.com&quot;&gt;
+      &lt;div class=&quot;stickerPackButtonNaara contentButton&quot;&gt; Check out the Naara Stickers
+      &lt;/div&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot; style=&quot;padding:0px; margin:30px 0px 0px 0px;&quot;&gt;
+  &lt;div class=&quot;image-container small-6 medium-3 column&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;&lt;img src=&quot;../img/stickerPack/tube.png&quot; alt=&quot;Penguin + Tube&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;image-container small-6 medium-3 column&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;&lt;img src=&quot;../img/stickerPack/bb8.png&quot; alt=&quot;Penguin + BB-8&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;image-container small-6 medium-3 column&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;&lt;img src=&quot;../img/stickerPack/heart.png&quot; alt=&quot;Penguin + Heart&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;image-container small-6 medium-3 column&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;&lt;img src=&quot;../img/stickerPack/lights.png&quot; alt=&quot;Penguin + Lights&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;h3 id=&quot;penguin-pack&quot;&gt;Penguin Pack&lt;/h3&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/stickerPack/stickersInspiration.png&quot; alt=&quot;Sticker Inspiration&quot; class=&quot;image-center&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/stickerPack/buildTest.png&quot; alt=&quot;Sticker Testing&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/stickerPack/splashDesign.png&quot; alt=&quot;Splash Design&quot; /&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;naara-pack&quot;&gt;Naara Pack&lt;/h3&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/stickerPack/naaraResearch.png&quot; alt=&quot;Naara Referance Images&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/stickerPack/naaraRhino.png&quot; alt=&quot;Naara Rhino&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/stickerPack/naaraStickers.png&quot; alt=&quot;Naara Stickers&quot; /&gt;&lt;/div&gt;
+
+</description>-->
+        <pubDate>Fri, 03 Mar 2017 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/stickerpack</link>
+        <guid isPermaLink="true">http://localhost:4000/stickerpack</guid>
+        
+        <category>stickers</category>
+        
+        <category>iOS</category>
+        
+        <category>illustrations</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Bounce (Chat App)</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/bounce/logo.svg&quot; alt=&quot;Final Logo&quot; class=&quot;image-center&quot; style=&quot;width:60%&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Have you ever been in a chat conversation with someone talking about several different things simultaneously and find it hard to keep track of which responses are connected? This is what Bounce tries to solve. Bounce allows users to split conversations into specific topics ‘collections’ to reduce this confusion. Flipping the idea of only having one chat conversation with someone.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/bounce/conversationCollections.png&quot; alt=&quot;Conversation Collections&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/bounce/mainScreensFinal.png&quot; alt=&quot;Final Screens&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/bounce/secondaryScreensFinal.png&quot; alt=&quot;Final Screens&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/bounce/darkMainScreensFinal.png&quot; alt=&quot;Final Screens&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/bounce/darkSecondaryScreensFinal.png&quot; alt=&quot;Final Screens&quot; /&gt;&lt;/div&gt;
+
+&lt;!--Give Example chats that this solves (ScreenShots)--&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;h3 id=&quot;branding&quot;&gt;Branding&lt;/h3&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/bounce/brandInspiration.png&quot; alt=&quot;Branding Inspiration&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/bounce/traceSketch1.png&quot; alt=&quot;Trace Sketches&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/bounce/traceSketch2.png&quot; alt=&quot;Trace Sketches&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/bounce/bounceLogoIterations.svg&quot; alt=&quot;Bounce Logo Iterations&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/bounce/logoIterations.svg&quot; alt=&quot;Logo Iterations&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/bounce/colorIterations.svg&quot; alt=&quot;Color Iterations&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/bounce/iconIterations.svg&quot; alt=&quot;Icons Iterations&quot; /&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;experience&quot;&gt;Experience&lt;/h3&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/bounce/uiSketches.png&quot; alt=&quot;UI Sketches&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/bounce/chatInspiration.png&quot; alt=&quot;Chat Inspiration&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/bounce/chatInspiration2.png&quot; alt=&quot;Chat Inspiration&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/bounce/colorIterations.png&quot; alt=&quot;Color Iterations&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/bounce/collectionColors.png&quot; alt=&quot;Collection Colors&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/bounce/notificationIterations.png&quot; alt=&quot;Notification Iterations&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/bounce/addContainerIterations.png&quot; alt=&quot;Add Container Iterations&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/bounce/peoplePageIerations.png&quot; alt=&quot;People Page Iterations&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/bounce/bubbleOptionIterations.png&quot; alt=&quot;Bubble Option Iterations&quot; /&gt;
+&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/bounce/collectionIndicator.png&quot; alt=&quot;Collection Indicator Iterations&quot; /&gt;
+&lt;/div&gt;
+</description>-->
+        <pubDate>Mon, 20 Mar 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/bounce</link>
+        <guid isPermaLink="true">http://localhost:4000/bounce</guid>
+        
+        <category>UI</category>
+        
+        <category>UX</category>
+        
+        <category>Branding</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Tag Association Inspiration Game</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/tagAssociation/hero.png&quot; alt=&quot;Hero Image&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;With this project, I wanted to explore how imagery could contribute to the inspiration process, specifically looking at illustrators, UI and UX designers as such I decided to pull images from &lt;a href=&quot;https://dribbble.com/rehanbutt&quot;&gt;Dribbble&lt;/a&gt;, an online community focused on work from many different kinds of designers and illustrators. I was also interesting it keeping my project fun and light hearted. With that in mind I decided to explore gamification. The question then became how could I turn a bunch of images into a game other than matching? Well I though users want their images to be found so they tag them, some with quite straightforward and some totally off the wall tags. But could I use these tags as a way to have people think about what an image means to the creator and help them learn how to find what they are looking for when out scouring the web. Almost as if this was a subconscious way to teach people how to google.&lt;/p&gt;
+
+&lt;p&gt;I decided to build 2 game modes sandbox and relation. Sandbox is a rapid-fire mode where a image is presented at random and your goal is to guess a tag associated to the image as fast as possible. This game mode is also endless. Relation’s objective is for the user to see if they can identify the connection between 2 images again based on the creators tags.&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; src=&quot;https://www.youtube.com/embed/aIOqotPks-8&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/tagAssociation/gameModes.png&quot; alt=&quot;GameModes&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/tagAssociation/sandboxMode.png&quot; alt=&quot;Sandbox Mode&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/tagAssociation/sandboxAnimated.gif&quot; alt=&quot;Sandbox Mode Animation&quot; class=&quot;image-center&quot; /&gt;&lt;/div&gt;
+
+&lt;!--
+&lt;div&gt;
+&lt;a target=&quot;_blank&quot; href=&quot;http://penguin.rehanbutt.com&quot;&gt;
+    &lt;div class=&quot;stickerPackButton contentButton&quot;&gt; Check out the product page
+    &lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+--&gt;
+
+&lt;!--
+## Process
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/stickerPack/stickersInspiration.png&quot; alt=&quot;Sticker Inspiration&quot; class=&quot;image-center&quot;/&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/stickerPack/buildTest.png&quot; alt=&quot;Sticker Testing&quot;/&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/stickerPack/splashDesign.png&quot; alt=&quot;Splash Design&quot;/&gt;&lt;/div&gt;
+--&gt;
+
+</description>-->
+        <pubDate>Fri, 12 May 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/tagassociation</link>
+        <guid isPermaLink="true">http://localhost:4000/tagassociation</guid>
+        
+        <category>web</category>
+        
+        <category>game</category>
+        
+        <category>word</category>
+        
+        <category>association</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Deep in The Q (AR)</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/deepInTheQ/deepinTheQHero.png&quot; alt=&quot;Hero Image&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;As part of my time at YinzCam, I worked with the Cleveland Cavaliers to design an augmented reality (AR) experience for use by their fans in and out of the stadium. Deep in The Q is a virtual hoops game allowing fans to join the game from their couch at home or from their stadium seat. The experience is triggered by several targets placed in stadium and at select watch parties as well as numerous Bud Light products. Many Cav-centric achievements were added in-game for die-hard fans to unlock. Before select games fans in attendance could compete against each other from anywhere in the arena to win some awesome prizes.&lt;/p&gt;
+
+&lt;div&gt;
+&lt;a target=&quot;_blank&quot; href=&quot;https://itunes.apple.com/us/app/deep-in-the-q/id1225687551?mt=8&quot;&gt;
+    &lt;div class=&quot;deepintheqButton contentButton&quot;&gt; Download on iOS
+    &lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; margin-top:20px;&quot;&gt;
+&lt;a target=&quot;_blank&quot; href=&quot;https://play.google.com/store/apps/details?id=com.yinzcam.deepintheq&amp;amp;hl=en&quot;&gt;
+    &lt;div class=&quot;deepintheqButton contentButton&quot;&gt; Download on Android
+    &lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;row&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;
+  &lt;div class=&quot;image-container small-6 medium-3 column&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;&lt;img src=&quot;../img/deepInTheQ/tv.gif&quot; alt=&quot;TV shot&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;image-container small-6 medium-3 column&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;&lt;img src=&quot;../img/deepInTheQ/fridge.gif&quot; alt=&quot;Fridge Shot&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;image-container small-6 medium-3 column&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;&lt;img src=&quot;../img/deepInTheQ/fire.gif&quot; alt=&quot;Firebal Shot&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;image-container small-6 medium-3 column&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;&lt;img src=&quot;../img/deepInTheQ/brickhouse.gif&quot; alt=&quot;Achievement Unlocked Shot&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;A couple of the many interactions and animations that were designed. Point increase counter, target recognition interface, fire ball for long streaks and an achievement animation.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/deepInTheQ/target.png&quot; alt=&quot;AR Target&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Once you have downloaded the app, point the camera view at this target and shoot some baskets! Sound effects are included by the way, so turn that volume up! :P&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;
+    &lt;img src=&quot;../img/deepInTheQ/nba.png&quot; alt=&quot;NBA Press&quot; /&gt;&lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;
+    &lt;img src=&quot;../img/deepInTheQ/techcrunch.png&quot; alt=&quot;Tech Crunch Press&quot; /&gt;&lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;
+    &lt;img src=&quot;../img/deepInTheQ/ibt.png&quot; alt=&quot;IBT Press&quot; /&gt;&lt;/div&gt;
+    &lt;div class=&quot;small-12 medium-6 large-6 columns image-container&quot;&gt;
+    &lt;img src=&quot;../img/deepInTheQ/cision.png&quot; alt=&quot;Cision Press&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+</description>-->
+        <pubDate>Tue, 23 May 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/deepintheq</link>
+        <guid isPermaLink="true">http://localhost:4000/deepintheq</guid>
+        
+        <category>UI</category>
+        
+        <category>UX</category>
+        
+        <category>AR</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Expii Exploration</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/expii/hero.png&quot; alt=&quot;Hero Image&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;I created these quick mockups and audit as an exploration of the current image of Expii and a way to help improve some of the pain points I and several others saw when first playing with this tool.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/expii/functionsMock.png&quot; alt=&quot;Subject Page Mockup&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;h3 id=&quot;branding&quot;&gt;Branding&lt;/h3&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/expii/onTheWeb.png&quot; alt=&quot;Expii Across the Web&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;With these I was seeing where all Expii engaged their users and if the brand image was consistent, as well as relevant, to engage on each of the channels to make the most powerful impact with the smallest ember—by looking at email, the website, several social media sites, the app stores, and job boards.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/expii/brands.png&quot; alt=&quot;Expii Brands&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/expii/brands2.png&quot; alt=&quot;Expii Brands 2&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Across all the public facing platforms I came across four distinct brand images and several tones when speaking or writing about the product. I started by exploring the color schemes that users are presented with and then progressing on to typeface, type style, and brand usage. Noticing that several different typefaces, weights, and combinations of upper and lowercase lettering was being used. As such, I created one potential brand iteration solving many of the problems with the current implementation.&lt;/p&gt;
+
+&lt;div class=&quot;row&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;
+  &lt;div class=&quot;image-container small-6 medium-3 column&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;&lt;img src=&quot;../img/expii/actionButton.gif&quot; alt=&quot;Animation Inspiration&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;image-container small-6 medium-3 column&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;&lt;img src=&quot;../img/expii/funColors.gif&quot; alt=&quot;Animation Inspiration&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;image-container small-6 medium-3 column&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;&lt;img src=&quot;../img/expii/liquidButton.gif&quot; alt=&quot;Animation Inspiration&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;image-container small-6 medium-3 column&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;&lt;img src=&quot;../img/expii/iconAnimation.gif&quot; alt=&quot;Animation Inspiration&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/expii/inspiration.png&quot; alt=&quot;Inspiration&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Some inspiration I used to articulate the brand, the flow, clarity, and hierarchy of the experiences.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/expii/brandProposal.svg&quot; alt=&quot;Simple Brand Proposal&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;When designing this brand image, I looked at it as the starting point for a bigger brand system. Using the pill shapes as a thematic element that could be used across all Expii products and marketing materials with an approachable color scheme and mascot to guide users through the Expii experience.&lt;/p&gt;
+
+&lt;h3 id=&quot;experiences&quot;&gt;Experiences&lt;/h3&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/expii/platforms.png&quot; alt=&quot;Platforms Expii Exists On&quot; style=&quot;margin-bottom:70px;&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;Extending from the brand audit, I looked at whether the product differed based on platform and if each platform was being capitalized on to the fullest extent. iOS only provided one of the two Expii products–Solve. Upon opening the app, the experience was immediately gated by a user login, which can be a big deterrent for users to try out a product or service. The Expii Android app was a webview leaving the interactions to be identical to the site. One of the benefits of a native app, however, is that resources can be stored on the device for easy retrieval and offline usage in many cases–something especially important in developing countries where infrastructure may not be as reliable but the added value of a learning tool like Expii would be far bigger. Lastly, I explored the desktop web experience as it is the most prominent and fully featured.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/expii/products.png&quot; alt=&quot;Products&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Two design languages, both in terms of visual UI styles and interaction depth and type, existed across the two products–Grandmaster and Solve. Thinking about pulling a design language out to be used across both products I delved deeper into Grandmaster, a network of math and science topics to be explored by the learner at many different skill levels. I chose to look at Grandmaster over Solve as it was a far more complex experience and wanted my design proposals to succeed at all levels of complexity.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/expii/subjectAnalysis.png&quot; alt=&quot;Subject Page Analysis&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/expii/functionsMock.png&quot; alt=&quot;Subject Page Proposal&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Looking at the “What are Functions?” page I saw several opportunities to clarify and simplify the experience. Thinking about what information was most critical for the learner and how we could aid in the learning process for these students. Several of the biggest questions are overlaid in the current subject page. From these observations, I looked at elevating the most important aspects of the page, the explanations and problems; and thinking about a way to combine them for students to check their understanding of the subject matter. One of the smaller, yet critical moments in the experience is when the students may get stuck and would like to reveal the answer. In the current implementation, the answer is provided right away on click. In my proposal, I have added a secondary step to encourage students to make a guess based on the explanations provided not only to help the team see if certain questions or explanations need to be clarified but also as a way for students to hold themselves accountable for understanding a particular topic. After looking at both the bigger and smaller opportunities I applied the proposed brand language to the page for a cohesive experience.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/expii/profileAnalysis.png&quot; alt=&quot;Profile Page Analysis&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/expii/profileMock.png&quot; alt=&quot;Profile Page Proposal&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;The second aspect I wanted to explore was the profile pages as Expii is creating a community to crowd source the lessons. I saw several opportunities here, as well, thinking first about why someone would access their own or another users profile page. Let’s unpack the second part of that. Why would I explore a fellow users profile page? Probably because they have left a comment, problem or an explanation that clicked with the way I think. And if that is the case, that’s wonderful! You found someone that speaks to you to understand the subjects at hand. How could Expii help provide you with more of the stuff that works? As such, I added a way for users to follow other users that they understood the most as a way to maintain activity of that user, rather than leaving from frustration. This may even lead to growing the learners’ topic interests if someone they trust to provide good learning resources covers topics outside of the learners’ main topic interest.&lt;/p&gt;
+</description>-->
+        <pubDate>Mon, 12 Jun 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/expii</link>
+        <guid isPermaLink="true">http://localhost:4000/expii</guid>
+        
+        <category>UI</category>
+        
+        <category>UX</category>
+        
+        <category>Research</category>
+        
+        <category>edtech</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>QULR.Life</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/qulr/colorCards.png&quot; alt=&quot;Color Cards&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;I’m a big fan of color and creating fun names for them. As such I started QULR as a first step of a much larger exploration and tool creation surrounding color. QULR is my way of sharing some of the many fun colors I come across.&lt;/p&gt;
+
+&lt;div&gt;
+  &lt;a target=&quot;_blank&quot; href=&quot;http://QULR.Life&quot;&gt;
+      &lt;div class=&quot;qulrButton contentButton&quot;&gt; Check out QULR.Life
+      &lt;/div&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/qulr/screenshot.png&quot; alt=&quot;Website Screenshot&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/qulr/myInspiration.png&quot; alt=&quot;My Current Color Spread&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;I wanted a better way to hold my colors. Collecting Post-its, swatch books and just writing down color values was not a great solution.&lt;/p&gt;
+
+&lt;div class=&quot;row&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;
+  &lt;div class=&quot;image-container small-6 medium-3 column&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;&lt;img src=&quot;../img/qulr/inspo1.gif&quot; alt=&quot;Animation Inspiration&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;image-container small-6 medium-3 column&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;&lt;img src=&quot;../img/qulr/inspo2.gif&quot; alt=&quot;Animation Inspiration&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;image-container small-6 medium-3 column&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;&lt;img src=&quot;../img/qulr/inspo3.gif&quot; alt=&quot;Animation Inspiration&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;image-container small-6 medium-3 column&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;&lt;img src=&quot;../img/qulr/inspo4.gif&quot; alt=&quot;Animation Inspiration&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/qulr/tileVariations.png&quot; alt=&quot;Tile Variations&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Several iterations of the cards I designed.&lt;/p&gt;
+</description>-->
+        <pubDate>Sat, 12 Aug 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/qulr</link>
+        <guid isPermaLink="true">http://localhost:4000/qulr</guid>
+        
+        <category>web</category>
+        
+        <category>color</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>tech.soa</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/techsoa/techHero.png&quot; alt=&quot;tech.soa Home Page&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;The goal with tech.soa was to pull all the resources from around the department into one place, from course materials and references to facility documentation. Making this the one stop shop for tutorials, policies, references and workshops. While providing an easily updated system for students, faculty and staff to share their knowledge with the community. We did this by creating the site with Jekyll with the goal to keep the only barrier to entry a GitHub account and a bit of Markdown knowledge. Leaving all the heavy lifting on the system.&lt;/p&gt;
+
+&lt;div&gt;
+&lt;a target=&quot;_blank&quot; href=&quot;https://tech.soa.cmu.edu&quot;&gt;
+    &lt;div class=&quot;techsoaButton contentButton&quot;&gt; Check out the site
+    &lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;div style=&quot;margin-bottom: 20px; margin-top:20px;&quot;&gt;
+&lt;a target=&quot;_blank&quot; href=&quot;https://github.com/c0deLab/tech.soa.cmu.edu&quot;&gt;
+    &lt;div class=&quot;techsoaButton contentButton&quot;&gt; Check out the code / contribute
+    &lt;/div&gt;
+&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/techsoa/pageProcess.png&quot; alt=&quot;Home Page Versions&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/techsoa/tileIterations.svg&quot; alt=&quot;Tile Iterations&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;
+  &lt;div class=&quot;image-container small-12 medium-4 column&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;&lt;img src=&quot;../img/techsoa/interactionTitlesTags.gif&quot; alt=&quot;Hover Interaction For Titles &amp;amp; Tags&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;image-container small-12 medium-4 column&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;&lt;img src=&quot;../img/techsoa/interactionTile.gif&quot; alt=&quot;Hover Interaction for Tiles&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;image-container small-12 medium-4 column&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;&lt;img src=&quot;../img/techsoa/interactionLinks.gif&quot; alt=&quot;Hover Interaction for Inline Link&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+</description>-->
+        <pubDate>Wed, 23 Aug 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/techsoa</link>
+        <guid isPermaLink="true">http://localhost:4000/techsoa</guid>
+        
+        <category>web</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Augmented Reality Glasses</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/arGlasses/appleGlasses.png&quot; alt=&quot;Apple Glasses&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Am I surprised Apple is in the AR (augmented reality) space? No, not at all. Am I surprised they are making another wearable? Nope. They have been pushing into the fashion world with the Apple Watch in part to gain traction for wearable tech. Working with brand partners to design bands for the Apple Watch as well as sponsoring the Met Gala for the last couple of years helping grow into the fashion industry. Tim Cook has been talking about AR for some time now as the next big thing over VR (virtual reality) which I totally agree with. Augmenting the human experience rather than removing you from it. So, the real question is what are these AR glasses going to look like when they come out? And what will be the fashion industry tie in be? These are some of the questions I try to answer with this project.&lt;/p&gt;
+
+&lt;iframe width=&quot;100%&quot; src=&quot;https://www.youtube.com/embed/eoKWqfbHd-s&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/arGlasses/sketches.png&quot; alt=&quot;Sketches that Sparked the Whole Project&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/arGlasses/glassesInspiration.png&quot; alt=&quot;Glasses Moodboard&quot; style=&quot;margin-bottom: 50px;&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/arGlasses/glassesStyles.svg&quot; alt=&quot;Glasses Styles&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/arGlasses/inTheNews.png&quot; alt=&quot;AR in The News&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/arGlasses/canvasConcept.svg&quot; alt=&quot;Canvas Concept&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;As part of this concept, I was looking at what a relationship between Apple and its fashion partners would look like. The reason for looking at this is when creating a wearable, it’s all about style and as Apple did with the launch of the Apple Watch it was pushed very hard into the fashion world. Working with Hermès to create a special edition watch with their leather bands and hitting the cover of Vouge China. These were only a couple of injections Apple had into the fashion industry. Basically, the Apple Watch could be broken into 2 parts “the tech” and “the style”. “The tech” being the watch and “the style” being the bands for the most part. Knowing this I thought of how would the design for Apple Glasses be broken similarly into 2 components “the tech” and “the style”. In this case, I see “the style” being the frame’s shape, color, size materiality to name a few.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/arGlasses/appleFashion.png&quot; alt=&quot;Apple &amp;amp; the Fashion Industry&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/arGlasses/modelProcess.png&quot; alt=&quot;Digital Model&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/arGlasses/renderProcess.png&quot; alt=&quot;Render Process&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/arGlasses/packageInspiration.png&quot; alt=&quot;Package Inspiration&quot; /&gt;&lt;/div&gt;
+
+&lt;!--Spectacle GIF for the case and the light ring--&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/arGlasses/materialPalette.png&quot; alt=&quot;Apple's Current Material Palette&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Apple’s current material palette for the Apple Watch: Aluminum, Stainless Steel and Ceramic.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/arGlasses/cases.png&quot; alt=&quot;Glasses Cases&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/arGlasses/caseModeling.png&quot; alt=&quot;Digital Case Model&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/arGlasses/caseModel.png&quot; alt=&quot;Digital Case Model: Final Design&quot; /&gt;&lt;/div&gt;
+</description>-->
+        <pubDate>Tue, 29 Aug 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/arglasses</link>
+        <guid isPermaLink="true">http://localhost:4000/arglasses</guid>
+        
+        <category>Industrial</category>
+        
+        <category>Design</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Project Olympus Branding</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/olympus/logo.svg&quot; alt=&quot;Olympus Logo&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Over $300 million in funding, 80 awards won and 11 acquisitions for all of its companies. With such success of Project Olympus should it have an image to match? As a member of the Project Olympus community I wanted to help refresh the image of Carnegie Mellon University’s terrific incubator program. And it happened to be the 10th anniversary of Project Olympus, which would be a great time to unveil a new image for the next ten years and beyond! I wanted to make sure to incorporate many of the same ideas behind the original image including talent, network and community.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/olympus/envolope.png&quot; alt=&quot;Olympus 10th Anniversary Party Invite&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/olympus/currentBrand.png&quot; alt=&quot;The Current Brand&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;The first step in rebranding was to audit the existing brand. Looking at colors, shape, line weights and usage to name a few. Above are the logo variants that we found being used.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/olympus/sketches.png&quot; alt=&quot;Sketches&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/olympus/sketchbook.png&quot; alt=&quot;Sketches&quot; style=&quot;margin-bottom: 50px;&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/olympus/brandInspiration.png&quot; alt=&quot;Inspiration&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;row&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;
+  &lt;div class=&quot;image-container small-6 medium-2 column&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;&lt;img src=&quot;../img/olympus/inspo1.gif&quot; alt=&quot;Animation Inspiration&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;image-container small-6 medium-2 column&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;&lt;img src=&quot;../img/olympus/inspo2.gif&quot; alt=&quot;Animation Inspiration&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;image-container small-6 medium-2 column&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;&lt;img src=&quot;../img/olympus/inspo3.gif&quot; alt=&quot;Animation Inspiration&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;image-container small-6 medium-2 column&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;&lt;img src=&quot;../img/olympus/inspo4.gif&quot; alt=&quot;Animation Inspiration&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;image-container small-6 medium-2 column&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;&lt;img src=&quot;../img/olympus/inspo5.gif&quot; alt=&quot;Animation Inspiration&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;image-container small-6 medium-2 column&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;&lt;img src=&quot;../img/olympus/inspo6.gif&quot; alt=&quot;Animation Inspiration&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/olympus/rhino.png&quot; alt=&quot;CAD Process&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/olympus/iterations1.svg&quot; alt=&quot;Branding Iterations&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/olympus/iterations2.svg&quot; alt=&quot;Branding Iterations&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/olympus/iterations3.svg&quot; alt=&quot;Branding Iterations&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/olympus/iterations4.svg&quot; alt=&quot;Branding Iterations&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/olympus/iterations5.svg&quot; alt=&quot;Branding Iterations&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/olympus/iterations6.svg&quot; alt=&quot;Branding Iterations&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/olympus/iterationsFont.svg&quot; alt=&quot;Font Iterations&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/olympus/halftone.png&quot; alt=&quot;Halftone Concept&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/olympus/semifinals.svg&quot; alt=&quot;The Final 3 Designs&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/olympus/final3.svg&quot; alt=&quot;The Final 3 with Wordmarks&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/olympus/colors.svg&quot; alt=&quot;Color Iterations&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/olympus/positioning.svg&quot; alt=&quot;Positioning Iterations&quot; /&gt;&lt;/div&gt;
+</description>-->
+        <pubDate>Fri, 22 Sep 2017 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/olympus</link>
+        <guid isPermaLink="true">http://localhost:4000/olympus</guid>
+        
+        <category>Branding</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>CES Mobile App Redesign</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/ces/ui1.png&quot; alt=&quot;Refreshed UIs Series 1&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;My first visit to CES (Consumer Electronics Show) was a blast, so many interesting companies showing off their coolest tech. With over 4,000 exhibitors and over 2 million square feet of exhibition space, the CES mobile app was helpful in getting around and knowing when and where events were happening. That being said, I saw several places where the CES app could be improved and this proposal aids to improve the app experience for the years to come.&lt;/p&gt;
+
+&lt;p&gt;Starting with the images above presented is a refreshed icon, a refreshed splash page using this year’s marketing materials and an onboarding process gaining user preferences in order to suggest sessions, booths and other events for each attendant.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/ces/ui2.png&quot; alt=&quot;Refreshed UIs Series 2&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;First I wanted to create a true home page, the ‘For You’ page, for the application utilizing the topic preferences collected during the onboarding process. Showcasing both sessions and booths in one place along with the notifications. This second screen shows what a notification would look like in an expanded view. The third screen showcases your profile page with bookmarked events, booths and people you have networked with. I wanted to streamline the contact sharing aspect of the app as most people just seemed to use LinkedIn. The last screen in this row is the updated search page providing recent and trending searches, as well as, a cleaner integration of the CES chatbot.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/ces/ui3.png&quot; alt=&quot;Refreshed UIs Series 3&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Continuing with the CES chatbot I streamlined the interface and created richer responses, such as the ‘mini-map’ when asking where something is. The next 2 interfaces show a pre-event and post-event version of an events page. The post-event page integrates a more prominent feedback call-out which would be accompanied with a notification for each session I have attended. Lastly, a refreshed feedback form.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/ces/ui4.png&quot; alt=&quot;Refreshed UIs Series 4&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;The last set of interfaces that I would like to highlight include the schedule page. I gave the schedule page improved hierarchy for each of the event entries, as well as, making clear which topic category each entry belongs. Next, I reworked the filters page keeping the event types toggles and the time slider, but adding the density of events at each time interval through the vertical bars above the slider, as well as, adding topic category toggles. One of my favorite features of the CES app was the indoor location feature, but it was tricky to use with a numbered map. As such, I wanted to again bring in the topic category color system and replace the booth numbers with company names. The fourth interface in this row shows an updated booth page highlighting the brand at the top, a link to their site and a quick function to navigate to the booth. Unless I had heard through word of mouth about a booth’s event more than likely I would not have known it was happening, as such I wanted to give booths the option to add their own events to the official calendar.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/ces/colorsystem.png&quot; alt=&quot;Color Categories&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;I wanted to take full advantage of the topic categories created for CES. As such I created a color system that maps each category to a color for identifying events, booths and several other things across the app experience.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/ces/userflowmap.png&quot; alt=&quot;User Flow Map&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/ces/site1.png&quot; alt=&quot;CES website&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/ces/site2.png&quot; alt=&quot;CES website&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;The web experience and mobile app experience are quite disconnected. I found the web experience to offer cleaner interactions and a cleaner interface and wanted to capture some of it for my redesign, while maintaining the full featured nature of the mobile app.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/ces/appscreens.png&quot; alt=&quot;CES iOS Screens&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/ces/appscreens2.png&quot; alt=&quot;CES iOS Screens&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Several screens from the current app.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/ces/sketches.png&quot; alt=&quot;Sketches&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/ces/inspiration.png&quot; alt=&quot;App Inspirations&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;row&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;
+  &lt;div class=&quot;image-container small-6 medium-3 column&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;&lt;img src=&quot;../img/ces/inspo1.gif&quot; alt=&quot;Animation Inspiration&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;image-container small-6 medium-3 column&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;&lt;img src=&quot;../img/ces/inspo2.gif&quot; alt=&quot;Animation Inspiration&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;image-container small-6 medium-3 column&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;&lt;img src=&quot;../img/ces/inspo3.gif&quot; alt=&quot;Animation Inspiration&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;image-container small-6 medium-3 column&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;&lt;img src=&quot;../img/ces/inspo4.gif&quot; alt=&quot;Animation Inspiration&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Some interaction and static interfaces, that I used as inspiration. Looking at things like ease of use, hierarchy and legibility to name a few.&lt;/p&gt;
+
+&lt;div class=&quot;image-container small-12 medium-10 column medium-centered&quot;&gt;&lt;img src=&quot;../img/ces/topics.png&quot; alt=&quot;Topic Groups&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/ces/eventtiles.png&quot; alt=&quot;Event Tile Iterations&quot; /&gt;&lt;/div&gt;
+</description>-->
+        <pubDate>Sun, 21 Jan 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/ces</link>
+        <guid isPermaLink="true">http://localhost:4000/ces</guid>
+        
+        <category>mobile</category>
+        
+        <category>app</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Lechuga Resturant Concept</title>
+<!--        <description>&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/lechuga/ui1.png&quot; alt=&quot;Mobile UIs Series 1&quot; /&gt;&lt;/div&gt;
+
+&lt;!--
+The wats:ON? Festival is a Carnegie Mellon staple, bringing an eclectic range of nationally and internationally renowned artists and their works to campus, providing a forum for interaction and collaboration between students and faculty from diverse fields within the campus community and beyond.
+
+We wanted to elevate the festival's web presence with a new website. Letting the community enjoy the amazing artist work after the festival. Our proposal takes a dive into the current site and simplifies the experience for the audience, while maintaining the strong brand the Wats:ON? Festival brings.
+--&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/lechuga/ui2.png&quot; alt=&quot;Mobile UIs Series 2&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/lechuga/ui3.png&quot; alt=&quot;Mobile UIs Series 2&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/lechuga/webscreens.png&quot; alt=&quot;Web Pages&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/lechuga/userflowmap.png&quot; alt=&quot;User Flow&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/lechuga/deliverymarketing.png&quot; alt=&quot;Delivery Marketing&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/lechuga/busad.png&quot; alt=&quot;Bus Advertisement&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/lechuga/logoiterations.svg&quot; alt=&quot;Logo Iterations&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/lechuga/brandingsketches.png&quot; alt=&quot;Brand Sketches&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/lechuga/appsketches.png&quot; alt=&quot;Experience Sketches&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/lechuga/competitiveaudit.png&quot; alt=&quot;Other Food Services&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/lechuga/inspiration1.png&quot; alt=&quot;Mobile Food Ordering Inspiration&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/lechuga/inspiration2.png&quot; alt=&quot;Mobile Food Ordering Inspiration&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;row&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;
+  &lt;div class=&quot;image-container small-12 medium-4 column&quot; style=&quot;margin:0px;&quot;&gt;&lt;img src=&quot;../img/lechuga/tileheart.gif&quot; alt=&quot;Interaction Prototype&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;image-container small-12 medium-4 column&quot; style=&quot;margin:0px;&quot;&gt;&lt;img src=&quot;../img/lechuga/tileexpand.gif&quot; alt=&quot;Interaction Prototype&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;image-container small-12 medium-4 column&quot; style=&quot;margin:0px;&quot;&gt;&lt;img src=&quot;../img/lechuga/tilegreen.gif&quot; alt=&quot;Interaction Prototype&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/lechuga/framerplay.png&quot; alt=&quot;Framer Coding&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/lechuga/framerdesign.png&quot; alt=&quot;Framer Design&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;row&quot; style=&quot;padding:0px; margin:0px;&quot;&gt;
+  &lt;div class=&quot;image-container small-6 medium-3 column&quot; style=&quot;margin:0px;&quot;&gt;&lt;img src=&quot;../img/lechuga/reorderscroll.gif&quot; alt=&quot;Interaction Prototype&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;image-container small-6 medium-3 column&quot; style=&quot;margin:0px;&quot;&gt;&lt;img src=&quot;../img/lechuga/itemselect.gif&quot; alt=&quot;Interaction Prototype&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;image-container small-6 medium-3 column&quot; style=&quot;margin:0px;&quot;&gt;&lt;img src=&quot;../img/lechuga/addtobag.gif&quot; alt=&quot;Interaction Prototype&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;image-container small-6 medium-3 column&quot; style=&quot;margin:0px;&quot;&gt;&lt;img src=&quot;../img/lechuga/mangoexpand.gif&quot; alt=&quot;Interaction Prototype&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/lechuga/orderpayiterations.png&quot; alt=&quot;Order &amp;amp; Pay Card Iterations&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/lechuga/sketchdesign.png&quot; alt=&quot;Sketch Design&quot; /&gt;&lt;/div&gt;
+</description>-->
+        <pubDate>Sun, 11 Mar 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/lechuga</link>
+        <guid isPermaLink="true">http://localhost:4000/lechuga</guid>
+        
+        <category>web</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>UI Interactions</title>
+<!--        <description>&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;small-12 medium-6 columns image-container&quot;&gt;
+    &lt;img src=&quot;../img/interactions/basketballrefresh.gif&quot; alt=&quot;Basketball Pull to Refresh Animation&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;small-12 medium-6 columns image-container&quot;&gt;
+    &lt;img src=&quot;../img/interactions/cloverbutton.gif&quot; alt=&quot;4 Leaf Clover Button&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;small-12 medium-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/interactions/qulrextracted.gif&quot; alt=&quot;Color Extracted Hover Interaction&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;small-12 medium-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/interactions/underlineexpand.gif&quot; alt=&quot;Expanded Underline Hover Interaction&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;small-12 medium-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/interactions/checkoutbutton.gif&quot; alt=&quot;Checkout Button Interaction&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;small-12 medium-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/interactions/socialbutton.gif&quot; alt=&quot;Social Action Button Interaction&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;small-12 medium-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/interactions/letitsnow.gif&quot; alt=&quot;Let It Snow Button Interaction&quot; /&gt;&lt;/div&gt;
+  &lt;div class=&quot;small-12 medium-6 columns image-container&quot;&gt;&lt;img src=&quot;../img/interactions/hoverspread.gif&quot; alt=&quot;Icon Spread Hover Interaction&quot; /&gt;&lt;/div&gt;
+&lt;/div&gt;
+</description>-->
+        <pubDate>Tue, 20 Mar 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/interactions</link>
+        <guid isPermaLink="true">http://localhost:4000/interactions</guid>
+        
+        <category>interactions</category>
+        
+        <category>animations</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Fluid Design Tool</title>
+<!--        <description>
+</description>-->
+        <pubDate>Wed, 02 May 2018 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/fluid</link>
+        <guid isPermaLink="true">http://localhost:4000/fluid</guid>
+        
+        <category>design</category>
+        
+        <category>app</category>
+        
+        <category>tool</category>
+        
+        <category>voice</category>
+        
+        <category>screen</category>
+        
+        <category>multi-platform</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Tesla Watch App</title>
+<!--        <description>&lt;div class=&quot;image-container small-12 medium-8 medium-centered&quot;&gt;&lt;img src=&quot;../img/teslaWatchApp/complicationshero.png&quot; alt=&quot;Complications Hero&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;For one of the most tech-centric companies out there, especially within the automotive industry, you would hope Tesla would have an Apple Watch app in addition to the iOS application, but sadly they don’t. I wanted to do something about that and decided to design this experience for our wrists; all the essentials at a glance! Let’s make this a reality Elon!&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/teslaWatchApp/hero.png&quot; alt=&quot;Tesla Watch App Hero&quot; /&gt;&lt;/div&gt;
+
+&lt;!--All the complications in various sizes--&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/teslaWatchApp/ui.png&quot; alt=&quot;Watch Application User Interface&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/teslaWatchApp/easteregghero.png&quot; alt=&quot;DJ Music Mixing Easter Egg&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;And we can’t forget about the Easter eggs! Become a music mixing DJ, while you charge up or host a jam session in your car. Record some tracks and share them with your friends. Scratch and spin using the Digital Crown on your Apple Watch.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/teslaWatchApp/flowmap.png&quot; alt=&quot;User Flowmap&quot; /&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;process&quot;&gt;Process&lt;/h2&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/teslaWatchApp/watchInterfaces.png&quot; alt=&quot;Current Apple Watch Interfaces&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Started by exploring many of the current design patterns in WatchOS from the watch faces to dedicated applications. Explored interactions such as toggle switches and use of the digital crown with variable inputs such as volume of music or zoom level of a map.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/teslaWatchApp/milagedialstates.svg&quot; alt=&quot;Milage Dial States &amp;amp; Iterations&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Interations of the remaining mileage complication would look like as well as all the states for it. Re-establishing a connection to the car,  reserve battery, low battery, charging state and a cold battery state are shown above.&lt;/p&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/teslaWatchApp/sketchprocess.png&quot; alt=&quot;UI Development Process&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;image-container&quot;&gt;&lt;img src=&quot;../img/teslaWatchApp/sketchprocessprototype.png&quot; alt=&quot;UI Development Process&quot; /&gt;&lt;/div&gt;
+</description>-->
+        <pubDate>Sun, 11 Nov 2018 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/teslawatchapp</link>
+        <guid isPermaLink="true">http://localhost:4000/teslawatchapp</guid>
+        
+        <category>UI</category>
+        
+        <category>UX</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
